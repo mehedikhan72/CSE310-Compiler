@@ -3,6 +3,7 @@
 
 #include "SymbolInfo.hpp"
 #include "hash.hpp"
+#include <fstream>
 #include <iostream>
 
 using namespace std;
@@ -17,7 +18,7 @@ private:
 
 public:
     ScopeTable(string hash_function, int num_buckets, ScopeTable *parent = nullptr) {
-        if(parent == nullptr) {
+        if (parent == nullptr) {
             this->id = 1;
         } else {
             this->id = parent->id + 1;
@@ -26,19 +27,19 @@ public:
         this->hash_function = hash_function;
         this->num_buckets = num_buckets;
         this->parent = parent;
-        this->hash_table = new SymbolInfo*[num_buckets];
+        this->hash_table = new SymbolInfo *[num_buckets];
 
-        for(int i = 0; i < num_buckets; i++) {
+        for (int i = 0; i < num_buckets; i++) {
             hash_table[i] = nullptr;
         }
     }
 
     ~ScopeTable() {
-        for(int i = 0; i < num_buckets; i++) {
-            SymbolInfo* curr = hash_table[i];
-            SymbolInfo* temp;
+        for (int i = 0; i < num_buckets; i++) {
+            SymbolInfo *curr = hash_table[i];
+            SymbolInfo *temp;
 
-            while(curr != nullptr) {
+            while (curr != nullptr) {
                 temp = curr;
                 curr = curr->getNext();
                 delete temp;
@@ -46,7 +47,8 @@ public:
         }
 
         delete hash_table;
-        if(parent != nullptr) delete parent;
+        if (parent != nullptr)
+            delete parent;
     }
 
     int getId() {
@@ -61,7 +63,7 @@ public:
         return num_buckets;
     }
 
-    ScopeTable* getParent() {
+    ScopeTable *getParent() {
         return parent;
     }
 
@@ -69,86 +71,101 @@ public:
         this->num_buckets = num_buckets;
     }
 
-    bool insert(string name, string type) {
-        SymbolInfo* symbol = new SymbolInfo(name, type);
+    bool insert(string name, string type, ofstream &os) {
+        SymbolInfo *symbol = new SymbolInfo(name, type);
         int index = sdbm_hash(symbol->getName()) % num_buckets;
 
-        SymbolInfo* head = hash_table[index];
-        if(head == nullptr) {
+        SymbolInfo *head = hash_table[index];
+        if (head == nullptr) {
             hash_table[index] = symbol;
             return true;
         } else {
-            SymbolInfo* curr = head;
-            while(true) {
-                if(curr->getName() == symbol->getName()) {
-                    return false; // Symbol already exists
+            SymbolInfo *curr = head;
+            int list_position = 1;
+            while (true) {
+                if (curr->getName() == symbol->getName()) {
+                    os << "\t'" << name << "' already exists in ScopeTable\n";
+                    return false;
                 }
 
-                if(curr->getNext() == nullptr) {
+                if (curr->getNext() == nullptr) {
                     break; // Reached the end of the linked list
                 }
                 curr = curr->getNext();
+                list_position++;
             }
 
             curr->setNext(symbol);
+            os << "\tInserted in ScopeTable# " << id << " at position" << index + 1 << ", " << list_position << "\n";
             return true;
         }
     }
 
-    SymbolInfo* lookup(string name) {
+    SymbolInfo *lookup(string name, ofstream &os) {
         int index = sdbm_hash(name) % num_buckets;
 
-        SymbolInfo* curr = hash_table[index];
-        while(curr != nullptr) {
-            if(curr->getName() == name) {
+        SymbolInfo *curr = hash_table[index];
+        int list_position = 1;
+        while (curr != nullptr) {
+            if (curr->getName() == name) {
+                os << "\t'" << name << "' found in ScopeTable# " << id << " at position " << index + 1 << ", " << list_position << "\n";
                 return curr;
             }
             curr = curr->getNext();
+            list_position++;
         }
 
-        return nullptr; // Not found
+        // not found.
+        os << "\t'" << name << "' not found in any of the ScopeTables\n";
+        return nullptr;
     }
 
-    bool remove(string name) {
+    bool remove(string name, ofstream &os) {
         int index = sdbm_hash(name) % num_buckets;
 
-        SymbolInfo* curr = hash_table[index];
-        SymbolInfo* prev = nullptr;
+        SymbolInfo *curr = hash_table[index];
+        SymbolInfo *prev = nullptr;
+        int list_position = 1; 
 
-        while(curr != nullptr) {
-            if(curr->getName() == name) {
-                if(prev == nullptr) {
+        while (curr != nullptr) {
+            if (curr->getName() == name) {
+                if (prev == nullptr) {
                     hash_table[index] = curr->getNext();
                 } else {
                     prev->setNext(curr->getNext());
                 }
+                
+                os << "\tDeleted '" << name << "' from ScopeTable# " << id << " at position " << index + 1 << ", " << list_position << "\n";
                 delete curr;
                 return true;
             }
             prev = curr;
             curr = curr->getNext();
+            list_position++;
         }
-
-        return false; // Not found
+        // Not found
+        os << "Not found in the current ScopeTable\n";
+        return false; 
     }
 
-    bool print() {
-        cout << "ScopeTable #" << id << endl;
-        for(int i = 0; i < num_buckets; i++) {
-            SymbolInfo* curr = hash_table[i];
-            if(curr != nullptr) {
-                cout << i << " --> ";
-                while(curr != nullptr) {
-                    cout << "<" << curr->getName() << ", " << curr->getType() << "> ";
-                    curr = curr->getNext();
-                }
-                cout << endl;
+    bool print(ofstream &os, int indentLevel = 0) {
+        string indent(indentLevel, '\t');
+
+        os << indent << "ScopeTable# " << id << "\n";
+
+        for (int i = 0; i < num_buckets; i++) {
+            os << indent << i + 1 << "--> ";
+
+            SymbolInfo *curr = hash_table[i];
+            while (curr != nullptr) {
+                os << curr->toString() << " ";
+                curr = curr->getNext();
             }
+            os << "\n";
         }
+
         return true;
     }
-
-
 };
 
 #endif
