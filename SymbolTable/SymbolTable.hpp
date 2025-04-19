@@ -16,7 +16,12 @@ public:
     }
 
     ~SymbolTable() {
-        delete current_scope;
+        while (current_scope != nullptr) {
+            ScopeTable *temp = current_scope;
+            current_scope = current_scope->getParent();
+            temp->setParent(nullptr);
+            delete temp;
+        }   
     }
 
     void enterScope(string hash_function, int num_buckets, ofstream& os) {
@@ -28,6 +33,7 @@ public:
         if (current_scope->getParent() != nullptr) {
             ScopeTable *temp = current_scope;
             current_scope = current_scope->getParent();
+            temp->setParent(nullptr);
             delete temp;
             os << "\tScopeTable# " << temp->getId() << " removed\n";
         } else {
@@ -48,6 +54,7 @@ public:
             ScopeTable *temp = current_scope;
             current_scope = current_scope->getParent();
             os << "\tScopeTable# " << temp->getId() << " removed\n";
+            temp->setParent(nullptr);
             delete temp;
         }
     }

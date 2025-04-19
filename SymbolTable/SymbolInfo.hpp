@@ -58,13 +58,7 @@ public:
     }
 
     ~SymbolInfo() {
-        SymbolInfo *curr = this;
-        SymbolInfo *temp;
-        while (curr != nullptr) {
-            temp = curr;
-            curr = curr->next;
-            delete temp;
-        }
+
     }
 
     string getName() {

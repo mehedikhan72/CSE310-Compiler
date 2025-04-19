@@ -42,13 +42,12 @@ public:
             while (curr != nullptr) {
                 temp = curr;
                 curr = curr->getNext();
+                temp->setNext(nullptr); // Avoids dangling pointer
                 delete temp;
             }
         }
 
         delete hash_table;
-        if (parent != nullptr)
-            delete parent;
     }
 
     int getId() {
@@ -71,6 +70,10 @@ public:
         this->num_buckets = num_buckets;
     }
 
+    void setParent(ScopeTable *parent) {
+        this->parent = parent;
+    }
+
     bool insert(string name, string type, ofstream &os) {
         SymbolInfo *symbol = new SymbolInfo(name, type);
         int index = sdbm_hash(symbol->getName()) % num_buckets;
@@ -85,6 +88,7 @@ public:
             while (true) {
                 if (curr->getName() == symbol->getName()) {
                     os << "\t'" << name << "' already exists in ScopeTable\n";
+                    delete symbol;
                     return false;
                 }
 
@@ -134,8 +138,9 @@ public:
                 } else {
                     prev->setNext(curr->getNext());
                 }
-                
+
                 os << "\tDeleted '" << name << "' from ScopeTable# " << id << " at position " << index + 1 << ", " << list_position << "\n";
+                curr->setNext(nullptr);
                 delete curr;
                 return true;
             }
