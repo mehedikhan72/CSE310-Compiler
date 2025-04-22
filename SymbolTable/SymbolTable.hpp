@@ -9,10 +9,12 @@ using namespace std;
 class SymbolTable {
 private:
     ScopeTable *current_scope;
+    ofstream* os;
 
 public:
-    SymbolTable(string hash_function, int num_buckets) {
-        current_scope = new ScopeTable(hash_function, num_buckets);
+    SymbolTable(string hash_function, int num_buckets, ofstream& output_stream) {
+        this->os = &output_stream;
+        current_scope = new ScopeTable(hash_function, num_buckets, nullptr, output_stream);
     }
 
     ~SymbolTable() {
@@ -24,71 +26,74 @@ public:
         }   
     }
 
-    void enterScope(string hash_function, int num_buckets, ofstream& os) {
-        current_scope = new ScopeTable(hash_function, num_buckets, current_scope);
-        os << "\tScopeTable# " << current_scope->getId() << " created\n";
+    void setOutputStream(ofstream& output_stream) {
+        this->os = &output_stream;
+        if (current_scope != nullptr) {
+            current_scope->setOutputStream(output_stream);
+        }
     }
 
-    void exitScope(ofstream& os) {
+    void enterScope(string hash_function, int num_buckets) {
+        current_scope = new ScopeTable(hash_function, num_buckets, current_scope, *os);
+    }
+
+    void exitScope() {
         if (current_scope->getParent() != nullptr) {
             ScopeTable *temp = current_scope;
             current_scope = current_scope->getParent();
             temp->setParent(nullptr);
             delete temp;
-            os << "\tScopeTable# " << temp->getId() << " removed\n";
         } else {
-            os << "\tCannot exit from the global ScopeTable\n";
+            *os << "\tCannot exit from the global ScopeTable\n";
         }
     }
 
-    bool insert(string name, string type, ofstream& os) {
-        return current_scope->insert(name, type, os);
+    bool insert(string name, string type) {
+        return current_scope->insert(name, type);
     }
 
-    bool remove(string name, ofstream& os) {
-        return current_scope->remove(name, os);
+    bool remove(string name) {
+        return current_scope->remove(name);
     }
 
-    void clearAllScopes(ofstream& os) {
-        while (current_scope->getParent() != nullptr) {
+    void clearAllScopes() {
+        while (current_scope != nullptr) {
             ScopeTable *temp = current_scope;
             current_scope = current_scope->getParent();
-            os << "\tScopeTable# " << temp->getId() << " removed\n";
             temp->setParent(nullptr);
             delete temp;
         }
     }
 
-    SymbolInfo *lookup(string name, ofstream& os) {
+    SymbolInfo *lookup(string name) {
         ScopeTable *curr = current_scope;
         while (curr != nullptr) {
-            SymbolInfo *symbol = curr->lookup(name, os);
+            SymbolInfo *symbol = curr->lookup(name);
             if (symbol != nullptr) {
                 return symbol;
             }
             curr = curr->getParent();
         }
 
-        os << "\t'" << name << "' not found in any of the ScopeTables\n";
+        *os << "\t'" << name << "' not found in any of the ScopeTables\n";
         return nullptr;
     }
 
-    void printCurrentScope(ofstream& os) {
+    void printCurrentScope() {
         if (current_scope != nullptr)
-            current_scope->print(os);
+            current_scope->print();
     }
 
-    void printAllScopes(ofstream& os) {
+    void printAllScopes() {
         ScopeTable* curr = current_scope;
-        int indent = 0;
+        int indent = 1;
 
         while (curr != nullptr) {
-            curr->print(os, indent);
+            curr->print(indent);
             curr = curr->getParent();
             indent++;
         }
     }
-
 };
 
 #endif

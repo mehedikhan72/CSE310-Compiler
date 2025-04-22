@@ -6,6 +6,11 @@
 
 using namespace std;
 
+string rtrim(const string &s) {
+    size_t end = s.find_last_not_of(" \n\r\t\f\v");
+    return (end == string::npos) ? "" : s.substr(0, end + 1);
+}
+
 int main(int argc, char *argv[]) {
     if (argc != 3) {
         cerr << "Usage: " << argv[0] << " <input_file> <output_file>" << endl;
@@ -31,11 +36,12 @@ int main(int argc, char *argv[]) {
 
     // TODO: later put to global var.
     string hash_function = "sdbm";
-    SymbolTable symbol_table(hash_function, num_buckets);
+    SymbolTable symbol_table(hash_function, num_buckets, output_file);
     int command_number = 1;
     string line;
 
     while (getline(input_file, line)) {
+        line = rtrim(line);
         if (line.empty())
             continue;
 
@@ -54,7 +60,7 @@ int main(int argc, char *argv[]) {
                 full_type += " " + rest;
             }
 
-            bool inserted = symbol_table.insert(name, full_type, output_file);
+            bool inserted = symbol_table.insert(name, full_type);
         }
 
         else if (cmd == "L") {
@@ -66,7 +72,7 @@ int main(int argc, char *argv[]) {
                 continue;
             }
 
-            SymbolInfo *result = symbol_table.lookup(name, output_file);
+            SymbolInfo *result = symbol_table.lookup(name);
         }
 
         else if (cmd == "D") {
@@ -78,18 +84,15 @@ int main(int argc, char *argv[]) {
                 continue;
             }
 
-            bool deleted = symbol_table.remove(name, output_file);
-            if (!deleted) {
-                output_file << "\tNot found in the current ScopeTable\n";
-            }
+            bool deleted = symbol_table.remove(name);
         }
 
         else if (cmd == "S") {
-            symbol_table.enterScope(hash_function, num_buckets, output_file);
+            symbol_table.enterScope(hash_function, num_buckets);
         }
 
         else if (cmd == "E") {
-            symbol_table.exitScope(output_file);
+            symbol_table.exitScope();
         }
 
         else if (cmd == "P") {
@@ -97,16 +100,16 @@ int main(int argc, char *argv[]) {
             iss >> option;
 
             if (option == "A") {
-                symbol_table.printAllScopes(output_file);
+                symbol_table.printAllScopes();
             } else if (option == "C") {
-                symbol_table.printCurrentScope(output_file);
+                symbol_table.printCurrentScope();
             } else {
                 output_file << "\tInvalid print option\n";
             }
         }
 
         else if (cmd == "Q") {
-            symbol_table.clearAllScopes(output_file);
+            symbol_table.clearAllScopes();
             break;
         }
 
