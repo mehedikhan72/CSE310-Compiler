@@ -17,7 +17,7 @@ private:
     ScopeTable *parent;
     ofstream* os;
     static int next_id;
-
+    int collision_count = 0;
 
 public:
     ScopeTable(string hash_function, int num_buckets, ScopeTable *parent, ofstream& output_stream) {
@@ -116,6 +116,7 @@ public:
             curr->setNext(symbol);
             list_position++;
             *os << "\tInserted in ScopeTable# " << id << " at position " << index + 1 << ", " << list_position << "\n";
+            collision_count++;
             return true;
         }
     }
