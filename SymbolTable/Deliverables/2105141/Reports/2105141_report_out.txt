@@ -1,0 +1,1993 @@
+	ScopeTable# 1 created
+Cmd 1: I lacuw STRUCT INT cenaw INT puhoten INT vomajeji INT fejunil
+	Inserted in ScopeTable# 1 at position 38, 1
+Cmd 2: I yeco VAR
+	Inserted in ScopeTable# 1 at position 35, 1
+Cmd 3: I mocaki STRUCT FLOAT puler BOOL sificol
+	Inserted in ScopeTable# 1 at position 261, 1
+Cmd 4: I zejol VAR
+	Inserted in ScopeTable# 1 at position 268, 1
+Cmd 5: I hayo VAR
+	Inserted in ScopeTable# 1 at position 264, 1
+Cmd 6: I penomuy VAR
+	Inserted in ScopeTable# 1 at position 506, 1
+Cmd 7: I yosero UNION STRING tibo INT lacoli FLOAT wohe
+	Inserted in ScopeTable# 1 at position 613, 1
+Cmd 8: I nacen UNION BOOL huducuk FLOAT vaki
+	Inserted in ScopeTable# 1 at position 154, 1
+Cmd 9: I sini BOOL
+	Inserted in ScopeTable# 1 at position 427, 1
+Cmd 10: I qiboqa BOOL
+	Inserted in ScopeTable# 1 at position 528, 1
+Cmd 11: I fifoya BOOL
+	Inserted in ScopeTable# 1 at position 248, 1
+Cmd 12: I xad RELOP
+	Inserted in ScopeTable# 1 at position 512, 1
+Cmd 13: I zicom VAR
+	Inserted in ScopeTable# 1 at position 85, 1
+Cmd 14: I jati RELOP
+	Inserted in ScopeTable# 1 at position 679, 1
+Cmd 15: I gud VAR
+	Inserted in ScopeTable# 1 at position 189, 1
+Cmd 16: I qekero VAR
+	Inserted in ScopeTable# 1 at position 57, 1
+Cmd 17: I sara NUMBER
+	Inserted in ScopeTable# 1 at position 412, 1
+Cmd 18: I yele UNION INT kar STRING juyahi STRING fokiyuwe FLOAT dip
+	Inserted in ScopeTable# 1 at position 380, 1
+Cmd 19: I wagos NUMBER
+	Inserted in ScopeTable# 1 at position 87, 1
+Cmd 20: I nuxe BOOL
+	Inserted in ScopeTable# 1 at position 35, 2
+Cmd 21: I dojace RELOP
+	Inserted in ScopeTable# 1 at position 486, 1
+Cmd 22: I qago STRUCT INT canufage FLOAT yicor INT puzal INT vuq
+	Inserted in ScopeTable# 1 at position 333, 1
+Cmd 23: I qutoxow RELOP
+	Inserted in ScopeTable# 1 at position 159, 1
+Cmd 24: I xuhuwaxa STRUCT BOOL mok FLOAT tijot
+	Inserted in ScopeTable# 1 at position 691, 1
+Cmd 25: I lulo RELOP
+	Inserted in ScopeTable# 1 at position 118, 1
+Cmd 26: I vusid VAR
+	Inserted in ScopeTable# 1 at position 169, 1
+Cmd 27: I belom STRUCT STRING qotevuf INT yiboj
+	Inserted in ScopeTable# 1 at position 96, 1
+Cmd 28: I meyagaka VAR
+	Inserted in ScopeTable# 1 at position 104, 1
+Cmd 29: I toyuve VAR
+	Inserted in ScopeTable# 1 at position 206, 1
+Cmd 30: I vod NUMBER
+	Inserted in ScopeTable# 1 at position 257, 1
+Cmd 31: I tezepiy STRUCT FLOAT bakegut FLOAT levuji BOOL nep STRING huqizoyi
+	Inserted in ScopeTable# 1 at position 544, 1
+Cmd 32: I hip UNION STRING gunuva BOOL tuzabad
+	Inserted in ScopeTable# 1 at position 137, 1
+Cmd 33: I surupi RELOP
+	Inserted in ScopeTable# 1 at position 626, 1
+Cmd 34: I teciguga NUMBER
+	Inserted in ScopeTable# 1 at position 11, 1
+Cmd 35: I yanunifo NUMBER
+	Inserted in ScopeTable# 1 at position 11, 2
+Cmd 36: I temi VAR
+	Inserted in ScopeTable# 1 at position 686, 1
+Cmd 37: I qiyagox VAR
+	Inserted in ScopeTable# 1 at position 74, 1
+Cmd 38: I mac BOOL
+	Inserted in ScopeTable# 1 at position 192, 1
+Cmd 39: I hada VAR
+	Inserted in ScopeTable# 1 at position 116, 1
+Cmd 40: I jiyibip BOOL
+	Inserted in ScopeTable# 1 at position 456, 1
+Cmd 41: I xuyutu VAR
+	Inserted in ScopeTable# 1 at position 651, 1
+Cmd 42: I bohupuw VAR
+	Inserted in ScopeTable# 1 at position 80, 1
+Cmd 43: I duzil VAR
+	Inserted in ScopeTable# 1 at position 67, 1
+Cmd 44: I qenipedu STRUCT STRING hilamif BOOL luzat BOOL sofiwiw FLOAT jukicovi
+	Inserted in ScopeTable# 1 at position 48, 1
+Cmd 45: I faduvi FUNCTION INT BOOL BOOL
+	Inserted in ScopeTable# 1 at position 576, 1
+Cmd 46: I mugidomo BOOL
+	Inserted in ScopeTable# 1 at position 624, 1
+Cmd 47: I bivesubu UNION INT sivevuf STRING terok
+	Inserted in ScopeTable# 1 at position 656, 1
+Cmd 48: I nayasa FUNCTION FLOAT STRING INT BOOL
+	Inserted in ScopeTable# 1 at position 186, 1
+Cmd 49: I zavocaf BOOL
+	Inserted in ScopeTable# 1 at position 279, 1
+Cmd 50: I ted UNION STRING cubi INT bujur
+	Inserted in ScopeTable# 1 at position 291, 1
+Cmd 51: I yavi STRUCT BOOL removuqe BOOL xuvibame INT sado
+	Inserted in ScopeTable# 1 at position 688, 1
+Cmd 52: I jibudej VAR
+	Inserted in ScopeTable# 1 at position 281, 1
+Cmd 53: I ceboguv RELOP
+	Inserted in ScopeTable# 1 at position 411, 1
+Cmd 54: I lutujasi NUMBER
+	Inserted in ScopeTable# 1 at position 287, 1
+Cmd 55: I nujog BOOL
+	Inserted in ScopeTable# 1 at position 596, 1
+Cmd 56: I fetaret RELOP
+	Inserted in ScopeTable# 1 at position 466, 1
+Cmd 57: I civ VAR
+	Inserted in ScopeTable# 1 at position 260, 1
+Cmd 58: I tadumu FUNCTION FLOAT STRING STRING INT
+	Inserted in ScopeTable# 1 at position 194, 1
+Cmd 59: I muqem VAR
+	Inserted in ScopeTable# 1 at position 386, 1
+Cmd 60: I davupa UNION FLOAT xokasom FLOAT hijenuf STRING guw FLOAT bowe
+	Inserted in ScopeTable# 1 at position 553, 1
+Cmd 61: I niceb FUNCTION STRING STRING FLOAT
+	Inserted in ScopeTable# 1 at position 453, 1
+Cmd 62: I zuqe NUMBER
+	Inserted in ScopeTable# 1 at position 241, 1
+Cmd 63: I xusido VAR
+	Inserted in ScopeTable# 1 at position 345, 1
+Cmd 64: I yes NUMBER
+	Inserted in ScopeTable# 1 at position 585, 1
+Cmd 65: I jonocey VAR
+	Inserted in ScopeTable# 1 at position 344, 1
+Cmd 66: I vipeme VAR
+	Inserted in ScopeTable# 1 at position 520, 1
+Cmd 67: I xum VAR
+	Inserted in ScopeTable# 1 at position 600, 1
+Cmd 68: I gabe VAR
+	Inserted in ScopeTable# 1 at position 423, 1
+Cmd 69: I mebaqux VAR
+	Inserted in ScopeTable# 1 at position 638, 1
+Cmd 70: I xedevab NUMBER
+	Inserted in ScopeTable# 1 at position 178, 1
+Cmd 71: I tiqa VAR
+	Inserted in ScopeTable# 1 at position 106, 1
+Cmd 72: I quwejoj STRUCT INT qajixuf BOOL soqeq INT nol
+	Inserted in ScopeTable# 1 at position 380, 2
+Cmd 73: I jenohaw UNION STRING ren FLOAT lejafeq
+	Inserted in ScopeTable# 1 at position 130, 1
+Cmd 74: I coz VAR
+	Inserted in ScopeTable# 1 at position 207, 1
+Cmd 75: I zusiyibu VAR
+	Inserted in ScopeTable# 1 at position 354, 1
+Cmd 76: I tipacid FUNCTION BOOL STRING INT FLOAT
+	Inserted in ScopeTable# 1 at position 620, 1
+Cmd 77: I bitekatu VAR
+	Inserted in ScopeTable# 1 at position 629, 1
+Cmd 78: I cora BOOL
+	Inserted in ScopeTable# 1 at position 324, 1
+Cmd 79: I dabux BOOL
+	Inserted in ScopeTable# 1 at position 525, 1
+Cmd 80: I jixug VAR
+	Inserted in ScopeTable# 1 at position 124, 1
+Cmd 81: I lusi UNION FLOAT fusayi FLOAT sarefene
+	Inserted in ScopeTable# 1 at position 563, 1
+Cmd 82: I rafi NUMBER
+	Inserted in ScopeTable# 1 at position 396, 1
+Cmd 83: I tef FUNCTION BOOL INT FLOAT INT
+	Inserted in ScopeTable# 1 at position 113, 1
+Cmd 84: I lel STRUCT INT xapa STRING jomog
+	Inserted in ScopeTable# 1 at position 675, 1
+Cmd 85: I suf UNION FLOAT lonubas BOOL tifi
+	Inserted in ScopeTable# 1 at position 165, 1
+Cmd 86: I nilabuv VAR
+	Inserted in ScopeTable# 1 at position 486, 2
+Cmd 87: I tufeyog BOOL
+	Inserted in ScopeTable# 1 at position 267, 1
+Cmd 88: I zayeze NUMBER
+	Inserted in ScopeTable# 1 at position 632, 1
+Cmd 89: I yef VAR
+	Inserted in ScopeTable# 1 at position 299, 1
+Cmd 90: I hode BOOL
+	Inserted in ScopeTable# 1 at position 298, 1
+Cmd 91: I menuva VAR
+	Inserted in ScopeTable# 1 at position 634, 1
+Cmd 92: I fudiman RELOP
+	Inserted in ScopeTable# 1 at position 221, 1
+Cmd 93: I zafowe BOOL
+	Inserted in ScopeTable# 1 at position 520, 2
+Cmd 94: I lenoce BOOL
+	Inserted in ScopeTable# 1 at position 619, 1
+Cmd 95: I jol VAR
+	Inserted in ScopeTable# 1 at position 587, 1
+Cmd 96: I midanas UNION INT zidep INT suh FLOAT sucivi
+	Inserted in ScopeTable# 1 at position 233, 1
+Cmd 97: I wobuxev NUMBER
+	Inserted in ScopeTable# 1 at position 74, 2
+Cmd 98: I nafay NUMBER
+	Inserted in ScopeTable# 1 at position 208, 1
+Cmd 99: I gujinevu BOOL
+	Inserted in ScopeTable# 1 at position 167, 1
+Cmd 100: I cexal VAR
+	Inserted in ScopeTable# 1 at position 174, 1
+Cmd 101: I codom VAR
+	Inserted in ScopeTable# 1 at position 631, 1
+Cmd 102: I kes VAR
+	Inserted in ScopeTable# 1 at position 97, 1
+Cmd 103: I luwo STRUCT INT zodatar FLOAT kogowet BOOL dagajose
+	Inserted in ScopeTable# 1 at position 147, 1
+Cmd 104: I riqa UNION FLOAT gonomaco INT bomir INT haf
+	Inserted in ScopeTable# 1 at position 669, 1
+Cmd 105: I fem BOOL
+	Inserted in ScopeTable# 1 at position 494, 1
+Cmd 106: I mex NUMBER
+	Inserted in ScopeTable# 1 at position 355, 1
+Cmd 107: I qaqeh VAR
+	Inserted in ScopeTable# 1 at position 394, 1
+Cmd 108: I cijizemu STRUCT INT maku INT kiji
+	Inserted in ScopeTable# 1 at position 481, 1
+Cmd 109: I casezat VAR
+	Inserted in ScopeTable# 1 at position 158, 1
+Cmd 110: I buwu VAR
+	Inserted in ScopeTable# 1 at position 41, 1
+Cmd 111: I copuli STRUCT BOOL zomimequ INT tuhuk
+	Inserted in ScopeTable# 1 at position 132, 1
+Cmd 112: I yumopih RELOP
+	Inserted in ScopeTable# 1 at position 302, 1
+Cmd 113: I payu VAR
+	Inserted in ScopeTable# 1 at position 593, 1
+Cmd 114: I ken NUMBER
+	Inserted in ScopeTable# 1 at position 542, 1
+Cmd 115: I bozitu UNION STRING tico BOOL xis FLOAT xezik BOOL kot
+	Inserted in ScopeTable# 1 at position 621, 1
+Cmd 116: I nakasupi VAR
+	Inserted in ScopeTable# 1 at position 17, 1
+Cmd 117: I lixaqas NUMBER
+	Inserted in ScopeTable# 1 at position 423, 2
+Cmd 118: I qig VAR
+	Inserted in ScopeTable# 1 at position 66, 1
+Cmd 119: I qaz VAR
+	Inserted in ScopeTable# 1 at position 398, 1
+Cmd 120: I nabu BOOL
+	Inserted in ScopeTable# 1 at position 98, 1
+Cmd 121: I fala NUMBER
+	Inserted in ScopeTable# 1 at position 131, 1
+Cmd 122: I dap VAR
+	Inserted in ScopeTable# 1 at position 6, 1
+Cmd 123: I wofepul BOOL
+	Inserted in ScopeTable# 1 at position 199, 1
+Cmd 124: I yetogawa RELOP
+	Inserted in ScopeTable# 1 at position 548, 1
+Cmd 125: I teyinen STRUCT INT rur FLOAT delapuh FLOAT jalip
+	Inserted in ScopeTable# 1 at position 359, 1
+Cmd 126: I lajidi VAR
+	Inserted in ScopeTable# 1 at position 428, 1
+Cmd 127: I vepa STRUCT FLOAT pezaq BOOL cosasoni
+	Inserted in ScopeTable# 1 at position 519, 1
+Cmd 128: I lis VAR
+	Inserted in ScopeTable# 1 at position 377, 1
+Cmd 129: I puyu UNION BOOL cug FLOAT jozolum BOOL nev INT buj
+	Inserted in ScopeTable# 1 at position 630, 1
+Cmd 130: I kulera VAR
+	Inserted in ScopeTable# 1 at position 143, 1
+Cmd 131: I pojaguh VAR
+	Inserted in ScopeTable# 1 at position 261, 2
+Cmd 132: I xecuj VAR
+	Inserted in ScopeTable# 1 at position 515, 1
+Cmd 133: I qow VAR
+	Inserted in ScopeTable# 1 at position 439, 1
+Cmd 134: I dajajo VAR
+	Inserted in ScopeTable# 1 at position 84, 1
+Cmd 135: I bolo RELOP
+	Inserted in ScopeTable# 1 at position 442, 1
+Cmd 136: I zehuquj NUMBER
+	Inserted in ScopeTable# 1 at position 136, 1
+Cmd 137: I hediy UNION STRING cibumu INT cos INT zamo FLOAT yenaqo
+	Inserted in ScopeTable# 1 at position 68, 1
+Cmd 138: I wesa VAR
+	Inserted in ScopeTable# 1 at position 174, 2
+Cmd 139: I luru STRUCT INT hevufuf BOOL tih INT cicuqir FLOAT jiyodoqi
+	Inserted in ScopeTable# 1 at position 530, 1
+Cmd 140: I buqoxi STRUCT STRING lag INT cuqeyote BOOL jaha STRING suce
+	Inserted in ScopeTable# 1 at position 69, 1
+Cmd 141: I qaquv NUMBER
+	Inserted in ScopeTable# 1 at position 60, 1
+Cmd 142: I mejewuyo VAR
+	Inserted in ScopeTable# 1 at position 376, 1
+Cmd 143: I doreq STRUCT BOOL nupaze INT fewitod
+	Inserted in ScopeTable# 1 at position 319, 1
+Cmd 144: I qugovu UNION FLOAT qac BOOL momo FLOAT woyoku FLOAT zinu
+	Inserted in ScopeTable# 1 at position 217, 1
+Cmd 145: I gukoluho BOOL
+	Inserted in ScopeTable# 1 at position 296, 1
+Cmd 146: I lepaco NUMBER
+	Inserted in ScopeTable# 1 at position 472, 1
+Cmd 147: I zalehaz BOOL
+	Inserted in ScopeTable# 1 at position 363, 1
+Cmd 148: I moxav RELOP
+	Inserted in ScopeTable# 1 at position 163, 1
+Cmd 149: I qaxine RELOP
+	Inserted in ScopeTable# 1 at position 435, 1
+Cmd 150: I yafiwedi STRUCT INT yati STRING wozijep BOOL pit BOOL qigitopu
+	Inserted in ScopeTable# 1 at position 369, 1
+Cmd 151: I quzoy UNION FLOAT noka STRING vudovic BOOL rowehah FLOAT yof
+	Inserted in ScopeTable# 1 at position 67, 2
+Cmd 152: I tayilono UNION FLOAT yoyiyoy FLOAT xiyece
+	Inserted in ScopeTable# 1 at position 521, 1
+Cmd 153: I kelim VAR
+	Inserted in ScopeTable# 1 at position 297, 1
+Cmd 154: I sas BOOL
+	Inserted in ScopeTable# 1 at position 565, 1
+Cmd 155: I kovuwox VAR
+	Inserted in ScopeTable# 1 at position 148, 1
+Cmd 156: I pofaseq BOOL
+	Inserted in ScopeTable# 1 at position 414, 1
+Cmd 157: I xapuhoh UNION FLOAT hel BOOL wugi INT das BOOL zexex
+	Inserted in ScopeTable# 1 at position 433, 1
+Cmd 158: I qadewey STRUCT INT nijikel FLOAT jerabu INT fop STRING xim
+	Inserted in ScopeTable# 1 at position 601, 1
+Cmd 159: I yan VAR
+	Inserted in ScopeTable# 1 at position 252, 1
+Cmd 160: I memi VAR
+	Inserted in ScopeTable# 1 at position 573, 1
+Cmd 161: I rehapoj VAR
+	Inserted in ScopeTable# 1 at position 640, 1
+Cmd 162: I suzas VAR
+	Inserted in ScopeTable# 1 at position 73, 1
+Cmd 163: I tuzesowa STRUCT STRING ravaya FLOAT joxisek FLOAT noziq BOOL qucow
+	Inserted in ScopeTable# 1 at position 525, 2
+Cmd 164: I weyojidi UNION STRING sel INT tetajohi FLOAT senoso FLOAT ropiha
+	Inserted in ScopeTable# 1 at position 73, 2
+Cmd 165: I pozajefe STRUCT FLOAT toyekaw STRING harig BOOL titixud FLOAT qonijile
+	Inserted in ScopeTable# 1 at position 546, 1
+Cmd 166: I qiwiyiqa VAR
+	Inserted in ScopeTable# 1 at position 573, 2
+Cmd 167: I hazi RELOP
+	Inserted in ScopeTable# 1 at position 668, 1
+Cmd 168: I zujow UNION BOOL dut FLOAT gawuner
+	Inserted in ScopeTable# 1 at position 631, 2
+Cmd 169: I ligey BOOL
+	Inserted in ScopeTable# 1 at position 518, 1
+Cmd 170: I mew STRUCT FLOAT vopuxet BOOL gos INT seyatupa
+	Inserted in ScopeTable# 1 at position 406, 1
+Cmd 171: I zebasu NUMBER
+	Inserted in ScopeTable# 1 at position 355, 2
+Cmd 172: I xuviha NUMBER
+	Inserted in ScopeTable# 1 at position 175, 1
+Cmd 173: I kopon VAR
+	Inserted in ScopeTable# 1 at position 365, 1
+Cmd 174: I vapo RELOP
+	Inserted in ScopeTable# 1 at position 69, 2
+Cmd 175: I demiduq VAR
+	Inserted in ScopeTable# 1 at position 689, 1
+Cmd 176: I cusuh VAR
+	Inserted in ScopeTable# 1 at position 600, 2
+Cmd 177: I yiyehaxu UNION STRING monu BOOL xedikiyu BOOL hado
+	Inserted in ScopeTable# 1 at position 687, 1
+Cmd 178: I hul VAR
+	Inserted in ScopeTable# 1 at position 631, 3
+Cmd 179: I fomomepu NUMBER
+	Inserted in ScopeTable# 1 at position 138, 1
+Cmd 180: I tasadey VAR
+	Inserted in ScopeTable# 1 at position 238, 1
+Cmd 181: I piya UNION FLOAT fejukako FLOAT danal FLOAT zitipego
+	Inserted in ScopeTable# 1 at position 684, 1
+Cmd 182: I benip VAR
+	Inserted in ScopeTable# 1 at position 512, 2
+Cmd 183: I gesalo VAR
+	Inserted in ScopeTable# 1 at position 55, 1
+Cmd 184: I zebed STRUCT INT dured BOOL lexe INT ragorem FLOAT soguqic
+	Inserted in ScopeTable# 1 at position 546, 2
+Cmd 185: I zen VAR
+	Inserted in ScopeTable# 1 at position 677, 1
+Cmd 186: I fim RELOP
+	Inserted in ScopeTable# 1 at position 603, 1
+Cmd 187: I tecatac STRUCT INT qetuyuh STRING xocuhe INT xigel STRING tajav
+	Inserted in ScopeTable# 1 at position 618, 1
+Cmd 188: I qew VAR
+	Inserted in ScopeTable# 1 at position 38, 2
+Cmd 189: I ceboxiw STRUCT BOOL boni FLOAT cosiyej BOOL yipi
+	Inserted in ScopeTable# 1 at position 86, 1
+Cmd 190: I sisetisu BOOL
+	Inserted in ScopeTable# 1 at position 26, 1
+Cmd 191: I xijime VAR
+	Inserted in ScopeTable# 1 at position 220, 1
+Cmd 192: I jedaxugu VAR
+	Inserted in ScopeTable# 1 at position 228, 1
+Cmd 193: I jorilajo UNION FLOAT sokah FLOAT mahaqed
+	Inserted in ScopeTable# 1 at position 89, 1
+Cmd 194: I dud VAR
+	Inserted in ScopeTable# 1 at position 490, 1
+Cmd 195: I requbuf VAR
+	Inserted in ScopeTable# 1 at position 249, 1
+Cmd 196: I tipovuv BOOL
+	Inserted in ScopeTable# 1 at position 143, 2
+Cmd 197: I gehifuq STRUCT STRING huwop BOOL royiw FLOAT tukah
+	Inserted in ScopeTable# 1 at position 476, 1
+Cmd 198: I ceb VAR
+	Inserted in ScopeTable# 1 at position 627, 1
+Cmd 199: I jocuy BOOL
+	Inserted in ScopeTable# 1 at position 101, 1
+Cmd 200: I xiwuled STRUCT BOOL museqoga INT kafor
+	Inserted in ScopeTable# 1 at position 197, 1
+Cmd 201: I kobeq NUMBER
+	Inserted in ScopeTable# 1 at position 248, 2
+Cmd 202: I jakuw VAR
+	Inserted in ScopeTable# 1 at position 180, 1
+Cmd 203: I bucuzat VAR
+	Inserted in ScopeTable# 1 at position 416, 1
+Cmd 204: I lipi VAR
+	Inserted in ScopeTable# 1 at position 259, 1
+Cmd 205: I buwobowe VAR
+	Inserted in ScopeTable# 1 at position 281, 2
+Cmd 206: I qigated VAR
+	Inserted in ScopeTable# 1 at position 381, 1
+Cmd 207: I buzorap RELOP
+	Inserted in ScopeTable# 1 at position 454, 1
+Cmd 208: I wukifu VAR
+	Inserted in ScopeTable# 1 at position 144, 1
+Cmd 209: I xejilin VAR
+	Inserted in ScopeTable# 1 at position 375, 1
+Cmd 210: I ped NUMBER
+	Inserted in ScopeTable# 1 at position 195, 1
+Cmd 211: I kikevoh VAR
+	Inserted in ScopeTable# 1 at position 251, 1
+Cmd 212: I ceval VAR
+	Inserted in ScopeTable# 1 at position 525, 3
+Cmd 213: I bon BOOL
+	Inserted in ScopeTable# 1 at position 504, 1
+Cmd 214: I sulija RELOP
+	Inserted in ScopeTable# 1 at position 434, 1
+Cmd 215: I waxoq UNION STRING vox BOOL vihig STRING waboje STRING wubefalo
+	Inserted in ScopeTable# 1 at position 642, 1
+Cmd 216: I bena VAR
+	Inserted in ScopeTable# 1 at position 359, 2
+Cmd 217: I jegohosi VAR
+	Inserted in ScopeTable# 1 at position 379, 1
+Cmd 218: I cawajese STRUCT STRING diw BOOL xewim STRING leban BOOL kuyodik
+	Inserted in ScopeTable# 1 at position 572, 1
+Cmd 219: I qodarir BOOL
+	Inserted in ScopeTable# 1 at position 691, 2
+Cmd 220: I malil UNION INT cab INT qahusic FLOAT qihopuc
+	Inserted in ScopeTable# 1 at position 493, 1
+Cmd 221: I coyawugo STRUCT FLOAT nusule STRING seset FLOAT duzo
+	Inserted in ScopeTable# 1 at position 567, 1
+Cmd 222: I hinofal VAR
+	Inserted in ScopeTable# 1 at position 322, 1
+Cmd 223: I roqokeno STRUCT BOOL kez BOOL neset
+	Inserted in ScopeTable# 1 at position 390, 1
+Cmd 224: I bixejur BOOL
+	Inserted in ScopeTable# 1 at position 375, 2
+Cmd 225: I favi RELOP
+	Inserted in ScopeTable# 1 at position 665, 1
+Cmd 226: I zisekam STRUCT BOOL baf FLOAT pape STRING soc BOOL peroqij
+	Inserted in ScopeTable# 1 at position 576, 2
+Cmd 227: I mara UNION FLOAT zek FLOAT qijiboh FLOAT pecojay
+	Inserted in ScopeTable# 1 at position 649, 1
+Cmd 228: I yasoreg FUNCTION BOOL STRING INT FLOAT
+	Inserted in ScopeTable# 1 at position 344, 2
+Cmd 229: I zifah NUMBER
+	Inserted in ScopeTable# 1 at position 387, 1
+Cmd 230: I mekud FUNCTION FLOAT INT BOOL BOOL
+	Inserted in ScopeTable# 1 at position 97, 2
+Cmd 231: I zidiwafi VAR
+	Inserted in ScopeTable# 1 at position 15, 1
+Cmd 232: I viqemaw NUMBER
+	Inserted in ScopeTable# 1 at position 469, 1
+Cmd 233: I yarone NUMBER
+	Inserted in ScopeTable# 1 at position 485, 1
+Cmd 234: I tayu VAR
+	Inserted in ScopeTable# 1 at position 371, 1
+Cmd 235: I pejewi VAR
+	Inserted in ScopeTable# 1 at position 70, 1
+Cmd 236: I sonohilu FUNCTION BOOL STRING FLOAT
+	Inserted in ScopeTable# 1 at position 135, 1
+Cmd 237: I cuzucot VAR
+	Inserted in ScopeTable# 1 at position 498, 1
+Cmd 238: I suyo BOOL
+	Inserted in ScopeTable# 1 at position 108, 1
+Cmd 239: I cifotu VAR
+	Inserted in ScopeTable# 1 at position 378, 1
+Cmd 240: I zagez RELOP
+	Inserted in ScopeTable# 1 at position 64, 1
+Cmd 241: I besil BOOL
+	Inserted in ScopeTable# 1 at position 570, 1
+Cmd 242: I felecuto FUNCTION FLOAT STRING
+	Inserted in ScopeTable# 1 at position 112, 1
+Cmd 243: I bitoki RELOP
+	Inserted in ScopeTable# 1 at position 161, 1
+Cmd 244: I puzaxe NUMBER
+	Inserted in ScopeTable# 1 at position 397, 1
+Cmd 245: I tuzoriru BOOL
+	Inserted in ScopeTable# 1 at position 351, 1
+Cmd 246: I goga BOOL
+	Inserted in ScopeTable# 1 at position 169, 2
+Cmd 247: I niwiniz NUMBER
+	Inserted in ScopeTable# 1 at position 667, 1
+Cmd 248: I cet STRUCT INT kokaziq INT mat STRING nixek
+	Inserted in ScopeTable# 1 at position 59, 1
+Cmd 249: I xajo RELOP
+	Inserted in ScopeTable# 1 at position 118, 2
+Cmd 250: I xuvehi BOOL
+	Inserted in ScopeTable# 1 at position 443, 1
+Cmd 251: I cocoliva STRUCT INT caduzud BOOL kinafiy FLOAT watu
+	Inserted in ScopeTable# 1 at position 571, 1
+Cmd 252: I bufo UNION BOOL xawenov FLOAT lix
+	Inserted in ScopeTable# 1 at position 628, 1
+Cmd 253: I wij VAR
+	Inserted in ScopeTable# 1 at position 55, 2
+Cmd 254: I vone RELOP
+	Inserted in ScopeTable# 1 at position 536, 1
+Cmd 255: I tejeya RELOP
+	Inserted in ScopeTable# 1 at position 19, 1
+Cmd 256: I yaqa VAR
+	Inserted in ScopeTable# 1 at position 127, 1
+Cmd 257: I zesamob VAR
+	Inserted in ScopeTable# 1 at position 611, 1
+Cmd 258: I lunap UNION STRING kuqifu INT yulododa
+	Inserted in ScopeTable# 1 at position 145, 1
+Cmd 259: I pog UNION INT waciv BOOL boremipu STRING hefoh STRING yofa
+	Inserted in ScopeTable# 1 at position 370, 1
+Cmd 260: I yoxohufa VAR
+	Inserted in ScopeTable# 1 at position 426, 1
+Cmd 261: I fokubeci VAR
+	Inserted in ScopeTable# 1 at position 397, 2
+Cmd 262: I wuqa RELOP
+	Inserted in ScopeTable# 1 at position 491, 1
+Cmd 263: I fogey NUMBER
+	Inserted in ScopeTable# 1 at position 274, 1
+Cmd 264: I dubili RELOP
+	Inserted in ScopeTable# 1 at position 317, 1
+Cmd 265: I dubuyigo STRUCT INT wazewa BOOL bocazize
+	Inserted in ScopeTable# 1 at position 551, 1
+Cmd 266: I yonoza UNION STRING zid INT baq
+	Inserted in ScopeTable# 1 at position 92, 1
+Cmd 267: I vijozuqi VAR
+	Inserted in ScopeTable# 1 at position 60, 2
+Cmd 268: I vufuz STRUCT BOOL yilufe INT homegi BOOL jof FLOAT vipeleg
+	Inserted in ScopeTable# 1 at position 462, 1
+Cmd 269: I cihey VAR
+	Inserted in ScopeTable# 1 at position 603, 2
+Cmd 270: I zedofe VAR
+	Inserted in ScopeTable# 1 at position 7, 1
+Cmd 271: I sifiho BOOL
+	Inserted in ScopeTable# 1 at position 213, 1
+Cmd 272: I qovape UNION FLOAT peqezum STRING pux
+	Inserted in ScopeTable# 1 at position 53, 1
+Cmd 273: I gifa STRUCT BOOL hibarure BOOL xicaxaxa
+	Inserted in ScopeTable# 1 at position 556, 1
+Cmd 274: I yuwo RELOP
+	Inserted in ScopeTable# 1 at position 337, 1
+Cmd 275: I bumuy BOOL
+	Inserted in ScopeTable# 1 at position 181, 1
+Cmd 276: I cuyiroz RELOP
+	Inserted in ScopeTable# 1 at position 426, 2
+Cmd 277: I fuget BOOL
+	Inserted in ScopeTable# 1 at position 628, 2
+Cmd 278: I qeg VAR
+	Inserted in ScopeTable# 1 at position 72, 1
+Cmd 279: I rahi VAR
+	Inserted in ScopeTable# 1 at position 517, 1
+Cmd 280: I xatuwi VAR
+	Inserted in ScopeTable# 1 at position 52, 1
+Cmd 281: I rabepu FUNCTION INT BOOL
+	Inserted in ScopeTable# 1 at position 245, 1
+Cmd 282: I polatoso UNION FLOAT cuw STRING caneyi STRING jopozi FLOAT lecacoj
+	Inserted in ScopeTable# 1 at position 579, 1
+Cmd 283: I jemec BOOL
+	Inserted in ScopeTable# 1 at position 202, 1
+Cmd 284: I texe RELOP
+	Inserted in ScopeTable# 1 at position 150, 1
+Cmd 285: I dov VAR
+	Inserted in ScopeTable# 1 at position 391, 1
+Cmd 286: I coxomu VAR
+	Inserted in ScopeTable# 1 at position 278, 1
+Cmd 287: I pafaseno STRUCT FLOAT reg FLOAT taqiya BOOL tokagaq FLOAT nos
+	Inserted in ScopeTable# 1 at position 357, 1
+Cmd 288: I nozez STRUCT INT gut FLOAT rilisip INT mewuroba
+	Inserted in ScopeTable# 1 at position 352, 1
+Cmd 289: I duv BOOL
+	Inserted in ScopeTable# 1 at position 274, 2
+Cmd 290: I yuwe UNION BOOL waxud STRING sicukuh INT norepalo
+	Inserted in ScopeTable# 1 at position 178, 2
+Cmd 291: I fapapi VAR
+	Inserted in ScopeTable# 1 at position 276, 1
+Cmd 292: I katef VAR
+	Inserted in ScopeTable# 1 at position 109, 1
+Cmd 293: I jofire NUMBER
+	Inserted in ScopeTable# 1 at position 180, 2
+Cmd 294: I biwokuj STRUCT BOOL besay INT naziyi INT cufe
+	Inserted in ScopeTable# 1 at position 344, 3
+Cmd 295: I seyem VAR
+	Inserted in ScopeTable# 1 at position 350, 1
+Cmd 296: I zololat BOOL
+	Inserted in ScopeTable# 1 at position 320, 1
+Cmd 297: I pijihi VAR
+	Inserted in ScopeTable# 1 at position 91, 1
+Cmd 298: I ziqi VAR
+	Inserted in ScopeTable# 1 at position 10, 1
+Cmd 299: I bagelure NUMBER
+	Inserted in ScopeTable# 1 at position 408, 1
+Cmd 300: I rarukibi RELOP
+	Inserted in ScopeTable# 1 at position 442, 2
+Cmd 301: I muyu VAR
+	Inserted in ScopeTable# 1 at position 242, 1
+Cmd 302: I dixo NUMBER
+	Inserted in ScopeTable# 1 at position 2, 1
+Cmd 303: I jiguwa VAR
+	Inserted in ScopeTable# 1 at position 459, 1
+Cmd 304: I xujeluv RELOP
+	Inserted in ScopeTable# 1 at position 208, 2
+Cmd 305: I patiko VAR
+	Inserted in ScopeTable# 1 at position 184, 1
+Cmd 306: I finoj RELOP
+	Inserted in ScopeTable# 1 at position 222, 1
+Cmd 307: I pupocud VAR
+	Inserted in ScopeTable# 1 at position 214, 1
+Cmd 308: I rova UNION FLOAT yixutohe STRING laduqu INT codu
+	Inserted in ScopeTable# 1 at position 10, 2
+Cmd 309: I qulug VAR
+	Inserted in ScopeTable# 1 at position 449, 1
+Cmd 310: I najiw VAR
+	Inserted in ScopeTable# 1 at position 500, 1
+Cmd 311: I deja VAR
+	Inserted in ScopeTable# 1 at position 164, 1
+Cmd 312: I genowifo BOOL
+	Inserted in ScopeTable# 1 at position 606, 1
+Cmd 313: I fow STRUCT STRING xuduhiya INT bobu BOOL homak
+	Inserted in ScopeTable# 1 at position 323, 1
+Cmd 314: I jan VAR
+	Inserted in ScopeTable# 1 at position 635, 1
+Cmd 315: I qafi UNION INT zil FLOAT reme
+	Inserted in ScopeTable# 1 at position 410, 1
+Cmd 316: I fij VAR
+	Inserted in ScopeTable# 1 at position 336, 1
+Cmd 317: I hujisoye UNION STRING rowi INT kuh INT xop INT peyer
+	Inserted in ScopeTable# 1 at position 465, 1
+Cmd 318: I dujico BOOL
+	Inserted in ScopeTable# 1 at position 446, 1
+Cmd 319: I qug VAR
+	Inserted in ScopeTable# 1 at position 86, 2
+Cmd 320: I pef VAR
+	Inserted in ScopeTable# 1 at position 17, 2
+Cmd 321: I kudi RELOP
+	Inserted in ScopeTable# 1 at position 195, 2
+Cmd 322: I kay VAR
+	Inserted in ScopeTable# 1 at position 640, 2
+Cmd 323: I sihabup UNION INT quxewed INT quyonava
+	Inserted in ScopeTable# 1 at position 81, 1
+Cmd 324: I xofico VAR
+	Inserted in ScopeTable# 1 at position 350, 2
+Cmd 325: I subazod STRUCT INT socapu INT cemadad
+	Inserted in ScopeTable# 1 at position 682, 1
+Cmd 326: I xiqa RELOP
+	Inserted in ScopeTable# 1 at position 218, 1
+Cmd 327: I nemem BOOL
+	Inserted in ScopeTable# 1 at position 304, 1
+Cmd 328: I vace RELOP
+	Inserted in ScopeTable# 1 at position 158, 2
+Cmd 329: I qacogi VAR
+	Inserted in ScopeTable# 1 at position 440, 1
+Cmd 330: I kudob VAR
+	Inserted in ScopeTable# 1 at position 536, 2
+Cmd 331: I wefa STRUCT FLOAT niq BOOL xupewa BOOL sufuf
+	Inserted in ScopeTable# 1 at position 182, 1
+Cmd 332: I wizena STRUCT BOOL yebafupe BOOL febokuf INT xameqav FLOAT sutixiy
+	Inserted in ScopeTable# 1 at position 536, 3
+Cmd 333: I mexoluqu STRUCT BOOL kabor FLOAT bigiyuri BOOL vusuleve FLOAT pab
+	Inserted in ScopeTable# 1 at position 399, 1
+Cmd 334: I yanepoze RELOP
+	Inserted in ScopeTable# 1 at position 99, 1
+Cmd 335: I yasula VAR
+	Inserted in ScopeTable# 1 at position 244, 1
+Cmd 336: I hij STRUCT FLOAT cacew INT voy STRING bobo
+	Inserted in ScopeTable# 1 at position 667, 2
+Cmd 337: I zoyaq BOOL
+	Inserted in ScopeTable# 1 at position 69, 3
+Cmd 338: I mux NUMBER
+	Inserted in ScopeTable# 1 at position 530, 2
+Cmd 339: I voq VAR
+	Inserted in ScopeTable# 1 at position 645, 1
+Cmd 340: I kutuwit RELOP
+	Inserted in ScopeTable# 1 at position 277, 1
+Cmd 341: I lazaluh STRUCT STRING zep FLOAT qiri BOOL geqaqiy FLOAT pafoju
+	Inserted in ScopeTable# 1 at position 205, 1
+Cmd 342: I susojo STRUCT STRING gula INT xefow FLOAT yerodar
+	Inserted in ScopeTable# 1 at position 624, 2
+Cmd 343: I pujoxu RELOP
+	Inserted in ScopeTable# 1 at position 210, 1
+Cmd 344: I zoy STRUCT STRING pobebuw STRING lup FLOAT yomapey
+	Inserted in ScopeTable# 1 at position 277, 2
+Cmd 345: I zureb STRUCT BOOL melece INT poqatewe FLOAT yuned INT durit
+	Inserted in ScopeTable# 1 at position 560, 1
+Cmd 346: I mocewug NUMBER
+	Inserted in ScopeTable# 1 at position 561, 1
+Cmd 347: I ruq UNION INT veluri BOOL juyosema FLOAT litogug
+	Inserted in ScopeTable# 1 at position 9, 1
+Cmd 348: I wuvafemu NUMBER
+	Inserted in ScopeTable# 1 at position 258, 1
+Cmd 349: I xaxig VAR
+	Inserted in ScopeTable# 1 at position 673, 1
+Cmd 350: I cegi VAR
+	Inserted in ScopeTable# 1 at position 383, 1
+Cmd 351: I xol UNION BOOL gog STRING hadakaw STRING xibadet STRING pegagik
+	Inserted in ScopeTable# 1 at position 533, 1
+Cmd 352: I gololiy FUNCTION STRING BOOL STRING INT
+	Inserted in ScopeTable# 1 at position 260, 2
+Cmd 353: I qujona VAR
+	Inserted in ScopeTable# 1 at position 630, 2
+Cmd 354: I dub VAR
+	Inserted in ScopeTable# 1 at position 649, 2
+Cmd 355: I kuvexoz NUMBER
+	Inserted in ScopeTable# 1 at position 375, 3
+Cmd 356: I mixicab FUNCTION FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 502, 1
+Cmd 357: I hofe RELOP
+	Inserted in ScopeTable# 1 at position 357, 2
+Cmd 358: I zocit VAR
+	Inserted in ScopeTable# 1 at position 230, 1
+Cmd 359: I hatum STRUCT STRING jisodici STRING besuke FLOAT dedecih BOOL diyeboq
+	Inserted in ScopeTable# 1 at position 8, 1
+Cmd 360: I suhu STRUCT STRING rilor FLOAT xixux
+	Inserted in ScopeTable# 1 at position 309, 1
+Cmd 361: I hobugopi BOOL
+	Inserted in ScopeTable# 1 at position 662, 1
+Cmd 362: I malora BOOL
+	Inserted in ScopeTable# 1 at position 7, 2
+Cmd 363: I yob STRUCT INT wex BOOL xewadosu FLOAT rekah STRING wegoho
+	Inserted in ScopeTable# 1 at position 169, 3
+Cmd 364: I daniqoze RELOP
+	Inserted in ScopeTable# 1 at position 573, 3
+Cmd 365: I far FUNCTION INT BOOL BOOL STRING
+	Inserted in ScopeTable# 1 at position 274, 3
+Cmd 366: I potuvora VAR
+	Inserted in ScopeTable# 1 at position 458, 1
+Cmd 367: I cuvej VAR
+	Inserted in ScopeTable# 1 at position 219, 1
+Cmd 368: I nebomis VAR
+	Inserted in ScopeTable# 1 at position 238, 2
+Cmd 369: I sazehuz STRUCT STRING liholemu FLOAT hekox
+	Inserted in ScopeTable# 1 at position 175, 2
+Cmd 370: I jarov FUNCTION FLOAT STRING
+	Inserted in ScopeTable# 1 at position 306, 1
+Cmd 371: I ruwavu BOOL
+	Inserted in ScopeTable# 1 at position 653, 1
+Cmd 372: I sijami NUMBER
+	Inserted in ScopeTable# 1 at position 60, 3
+Cmd 373: I wugavo RELOP
+	Inserted in ScopeTable# 1 at position 250, 1
+Cmd 374: I wal NUMBER
+	Inserted in ScopeTable# 1 at position 422, 1
+Cmd 375: I pur VAR
+	Inserted in ScopeTable# 1 at position 249, 2
+Cmd 376: I xuweg VAR
+	Inserted in ScopeTable# 1 at position 605, 1
+Cmd 377: I riy VAR
+	Inserted in ScopeTable# 1 at position 545, 1
+Cmd 378: I paci VAR
+	Inserted in ScopeTable# 1 at position 310, 1
+Cmd 379: I topamafo STRUCT FLOAT kagaxo STRING maxe INT zefa
+	Inserted in ScopeTable# 1 at position 220, 2
+Cmd 380: I sazo STRUCT BOOL sivi STRING xexabo STRING jitusil
+	Inserted in ScopeTable# 1 at position 315, 1
+Cmd 381: I cayuvaso UNION STRING vih STRING gay
+	Inserted in ScopeTable# 1 at position 287, 2
+Cmd 382: I puw VAR
+	Inserted in ScopeTable# 1 at position 675, 2
+Cmd 383: I rugadapo UNION INT kigif STRING xevo FLOAT jir
+	Inserted in ScopeTable# 1 at position 280, 1
+Cmd 384: I hoxipi VAR
+	Inserted in ScopeTable# 1 at position 615, 1
+Cmd 385: I tinuzi BOOL
+	Inserted in ScopeTable# 1 at position 212, 1
+Cmd 386: I nuculi VAR
+	Inserted in ScopeTable# 1 at position 106, 2
+Cmd 387: I rajohezo BOOL
+	Inserted in ScopeTable# 1 at position 347, 1
+Cmd 388: I bemana VAR
+	Inserted in ScopeTable# 1 at position 128, 1
+Cmd 389: I jadetuq STRUCT FLOAT favem STRING qava
+	Inserted in ScopeTable# 1 at position 68, 2
+Cmd 390: I codali UNION BOOL sati STRING robedu INT goxeqi INT zusomudu
+	Inserted in ScopeTable# 1 at position 9, 2
+Cmd 391: I fukovok UNION FLOAT hozu INT guzuhul FLOAT qezu
+	Inserted in ScopeTable# 1 at position 226, 1
+Cmd 392: I doy VAR
+	Inserted in ScopeTable# 1 at position 677, 2
+Cmd 393: I hih UNION FLOAT powiqe INT meyan BOOL taciqinu INT qom
+	Inserted in ScopeTable# 1 at position 152, 1
+Cmd 394: I xoka UNION STRING qup STRING hawihaf
+	Inserted in ScopeTable# 1 at position 60, 4
+Cmd 395: I tod VAR
+	Inserted in ScopeTable# 1 at position 151, 1
+Cmd 396: I yuyufuge BOOL
+	Inserted in ScopeTable# 1 at position 497, 1
+Cmd 397: I ninodisi VAR
+	Inserted in ScopeTable# 1 at position 653, 2
+Cmd 398: I xuyuya STRUCT FLOAT gabi BOOL diziboxa STRING sekixoz
+	Inserted in ScopeTable# 1 at position 284, 1
+Cmd 399: I jecib UNION FLOAT xitude STRING tinito BOOL kigeyaq
+	Inserted in ScopeTable# 1 at position 668, 2
+Cmd 400: I kuwayo RELOP
+	Inserted in ScopeTable# 1 at position 507, 1
+Cmd 401: I pisahaz NUMBER
+	Inserted in ScopeTable# 1 at position 226, 2
+Cmd 402: I rijixice UNION BOOL jufore INT huvafebi INT tijec BOOL xukoke
+	Inserted in ScopeTable# 1 at position 258, 2
+Cmd 403: I dimazap VAR
+	Inserted in ScopeTable# 1 at position 556, 2
+Cmd 404: I luvidegu BOOL
+	Inserted in ScopeTable# 1 at position 534, 1
+Cmd 405: I dukazof BOOL
+	Inserted in ScopeTable# 1 at position 693, 1
+Cmd 406: I tuwedo VAR
+	Inserted in ScopeTable# 1 at position 404, 1
+Cmd 407: I zif RELOP
+	Inserted in ScopeTable# 1 at position 597, 1
+Cmd 408: I tuheh STRUCT BOOL xiwura BOOL rokizop FLOAT sazaz
+	Inserted in ScopeTable# 1 at position 480, 1
+Cmd 409: I kagice BOOL
+	Inserted in ScopeTable# 1 at position 477, 1
+Cmd 410: I lig UNION BOOL yozigenu BOOL bituk FLOAT worehoh BOOL ciso
+	Inserted in ScopeTable# 1 at position 676, 1
+Cmd 411: I vuka BOOL
+	Inserted in ScopeTable# 1 at position 312, 1
+Cmd 412: I few VAR
+	Inserted in ScopeTable# 1 at position 615, 2
+Cmd 413: I fonuwo NUMBER
+	Inserted in ScopeTable# 1 at position 484, 1
+Cmd 414: I kuxurita BOOL
+	Inserted in ScopeTable# 1 at position 7, 3
+Cmd 415: I cowem VAR
+	Inserted in ScopeTable# 1 at position 527, 1
+Cmd 416: I yepu RELOP
+	Inserted in ScopeTable# 1 at position 276, 2
+Cmd 417: I mesu BOOL
+	Inserted in ScopeTable# 1 at position 68, 3
+Cmd 418: I lobad RELOP
+	Inserted in ScopeTable# 1 at position 280, 2
+Cmd 419: I deso STRUCT STRING jejuw FLOAT kuwozav
+	Inserted in ScopeTable# 1 at position 650, 1
+Cmd 420: I kakeru STRUCT FLOAT hazehe STRING tuxiyihe BOOL kuzunuh
+	Inserted in ScopeTable# 1 at position 363, 2
+Cmd 421: I fuzeg BOOL
+	Inserted in ScopeTable# 1 at position 134, 1
+Cmd 422: I zilap UNION BOOL fapedas STRING tero
+	Inserted in ScopeTable# 1 at position 66, 2
+Cmd 423: I dakufi RELOP
+	Inserted in ScopeTable# 1 at position 207, 2
+Cmd 424: I xenet BOOL
+	Inserted in ScopeTable# 1 at position 466, 2
+Cmd 425: I zinabu UNION FLOAT sux FLOAT kitiyefe
+	Inserted in ScopeTable# 1 at position 652, 1
+Cmd 426: I hujugag BOOL
+	Inserted in ScopeTable# 1 at position 16, 1
+Cmd 427: I miyo BOOL
+	Inserted in ScopeTable# 1 at position 260, 3
+Cmd 428: I suc VAR
+	Inserted in ScopeTable# 1 at position 432, 1
+Cmd 429: I bovodin UNION FLOAT yesipo STRING janol STRING luc FLOAT vakos
+	Inserted in ScopeTable# 1 at position 442, 3
+Cmd 430: I quxofavi BOOL
+	Inserted in ScopeTable# 1 at position 595, 1
+Cmd 431: I boloqu VAR
+	Inserted in ScopeTable# 1 at position 469, 2
+Cmd 432: I cez VAR
+	Inserted in ScopeTable# 1 at position 608, 1
+Cmd 433: I mozayowo VAR
+	Inserted in ScopeTable# 1 at position 376, 2
+Cmd 434: I vosubi RELOP
+	Inserted in ScopeTable# 1 at position 188, 1
+Cmd 435: I nevejax STRUCT INT vekovoz FLOAT samogox BOOL bozoqiv
+	Inserted in ScopeTable# 1 at position 447, 1
+Cmd 436: I nidazale STRUCT FLOAT fise BOOL xubobo FLOAT keqoris
+	Inserted in ScopeTable# 1 at position 289, 1
+Cmd 437: I quqa STRUCT STRING det STRING jikuh BOOL wuzewe
+	Inserted in ScopeTable# 1 at position 596, 2
+Cmd 438: I fok RELOP
+	Inserted in ScopeTable# 1 at position 641, 1
+Cmd 439: I feyiyi BOOL
+	Inserted in ScopeTable# 1 at position 244, 2
+Cmd 440: I sevugi VAR
+	Inserted in ScopeTable# 1 at position 492, 1
+Cmd 441: I qezayake BOOL
+	Inserted in ScopeTable# 1 at position 400, 1
+Cmd 442: I mog VAR
+	Inserted in ScopeTable# 1 at position 152, 2
+Cmd 443: I cajac STRUCT BOOL tumaro STRING cololal STRING nofiduru
+	Inserted in ScopeTable# 1 at position 555, 1
+Cmd 444: I beximate VAR
+	Inserted in ScopeTable# 1 at position 627, 2
+Cmd 445: I cucudufa VAR
+	Inserted in ScopeTable# 1 at position 485, 2
+Cmd 446: I nicahut STRUCT STRING witezeg BOOL piz BOOL kefe STRING gerobuw
+	Inserted in ScopeTable# 1 at position 413, 1
+Cmd 447: I gow STRUCT BOOL qul STRING pufavog
+	Inserted in ScopeTable# 1 at position 90, 1
+Cmd 448: I xuvinop RELOP
+	Inserted in ScopeTable# 1 at position 536, 4
+Cmd 449: I dufux VAR
+	Inserted in ScopeTable# 1 at position 537, 1
+Cmd 450: I tapa STRUCT STRING jufog BOOL nimubic BOOL hayun
+	Inserted in ScopeTable# 1 at position 163, 2
+Cmd 451: I cuxa VAR
+	Inserted in ScopeTable# 1 at position 371, 2
+Cmd 452: I nob NUMBER
+	Inserted in ScopeTable# 1 at position 116, 2
+Cmd 453: I faq VAR
+	Inserted in ScopeTable# 1 at position 185, 1
+Cmd 454: I wic NUMBER
+	Inserted in ScopeTable# 1 at position 678, 1
+Cmd 455: I tadocix NUMBER
+	Inserted in ScopeTable# 1 at position 596, 3
+Cmd 456: I mecera VAR
+	Inserted in ScopeTable# 1 at position 661, 1
+Cmd 457: I mumi VAR
+	Inserted in ScopeTable# 1 at position 521, 2
+Cmd 458: I huyer STRUCT INT lex STRING xeyocan
+	Inserted in ScopeTable# 1 at position 482, 1
+Cmd 459: I wisupola RELOP
+	Inserted in ScopeTable# 1 at position 572, 2
+Cmd 460: I sodupe STRUCT FLOAT xaxiqete STRING kezup BOOL loweloqu FLOAT ratoton
+	Inserted in ScopeTable# 1 at position 555, 2
+Cmd 461: I qiza STRUCT BOOL cemute BOOL xec FLOAT gefubol
+	Inserted in ScopeTable# 1 at position 535, 1
+Cmd 462: I rapop RELOP
+	Inserted in ScopeTable# 1 at position 378, 2
+Cmd 463: I lohehum VAR
+	Inserted in ScopeTable# 1 at position 609, 1
+Cmd 464: I cagamehi FUNCTION FLOAT FLOAT STRING STRING
+	Inserted in ScopeTable# 1 at position 264, 2
+Cmd 465: I popuy UNION INT zaku INT tamulo
+	Inserted in ScopeTable# 1 at position 105, 1
+Cmd 466: I mopetug VAR
+	Inserted in ScopeTable# 1 at position 487, 1
+Cmd 467: I nuta VAR
+	Inserted in ScopeTable# 1 at position 319, 2
+Cmd 468: I japeriz VAR
+	Inserted in ScopeTable# 1 at position 187, 1
+Cmd 469: I xuhok VAR
+	Inserted in ScopeTable# 1 at position 251, 2
+Cmd 470: I piw VAR
+	Inserted in ScopeTable# 1 at position 96, 2
+Cmd 471: I xojemivu RELOP
+	Inserted in ScopeTable# 1 at position 48, 2
+Cmd 472: I yuyi RELOP
+	Inserted in ScopeTable# 1 at position 546, 3
+Cmd 473: I gobono RELOP
+	Inserted in ScopeTable# 1 at position 269, 1
+Cmd 474: I jepu UNION INT finul STRING mevi INT higoyi STRING livacef
+	Inserted in ScopeTable# 1 at position 169, 4
+Cmd 475: I vahigu VAR
+	Inserted in ScopeTable# 1 at position 18, 1
+Cmd 476: I nopomapu VAR
+	Inserted in ScopeTable# 1 at position 454, 2
+Cmd 477: I gebaku RELOP
+	Inserted in ScopeTable# 1 at position 20, 1
+Cmd 478: I jexisosa VAR
+	Inserted in ScopeTable# 1 at position 525, 4
+Cmd 479: I yilotu BOOL
+	Inserted in ScopeTable# 1 at position 310, 2
+Cmd 480: I xikex BOOL
+	Inserted in ScopeTable# 1 at position 418, 1
+Cmd 481: I jezim NUMBER
+	Inserted in ScopeTable# 1 at position 441, 1
+Cmd 482: I pesusuce VAR
+	Inserted in ScopeTable# 1 at position 336, 2
+Cmd 483: I gidaleru UNION INT seyitize STRING jufeba
+	Inserted in ScopeTable# 1 at position 576, 3
+Cmd 484: I fale STRUCT BOOL sanati BOOL poloyudo
+	Inserted in ScopeTable# 1 at position 468, 1
+Cmd 485: I cew VAR
+	Inserted in ScopeTable# 1 at position 148, 2
+Cmd 486: I mibuxe VAR
+	Inserted in ScopeTable# 1 at position 389, 1
+Cmd 487: I roy BOOL
+	Inserted in ScopeTable# 1 at position 543, 1
+Cmd 488: I yijobiki VAR
+	Inserted in ScopeTable# 1 at position 324, 2
+Cmd 489: I ziyok VAR
+	Inserted in ScopeTable# 1 at position 228, 2
+Cmd 490: I yofi FUNCTION FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 246, 1
+Cmd 491: I kal VAR
+	Inserted in ScopeTable# 1 at position 430, 1
+Cmd 492: I jihon VAR
+	Inserted in ScopeTable# 1 at position 672, 1
+Cmd 493: I riyane NUMBER
+	Inserted in ScopeTable# 1 at position 547, 1
+Cmd 494: I fexov STRUCT FLOAT def INT qagi FLOAT yebiveci
+	Inserted in ScopeTable# 1 at position 56, 1
+Cmd 495: I bofi FUNCTION STRING FLOAT STRING
+	Inserted in ScopeTable# 1 at position 124, 2
+Cmd 496: I zel VAR
+	Inserted in ScopeTable# 1 at position 499, 1
+Cmd 497: I moj VAR
+	Inserted in ScopeTable# 1 at position 616, 1
+Cmd 498: I cegov BOOL
+	Inserted in ScopeTable# 1 at position 380, 3
+Cmd 499: I pavike FUNCTION BOOL BOOL STRING
+	Inserted in ScopeTable# 1 at position 573, 4
+Cmd 500: I pixe BOOL
+	Inserted in ScopeTable# 1 at position 562, 1
+Cmd 501: I coquwo RELOP
+	Inserted in ScopeTable# 1 at position 472, 2
+Cmd 502: I gewi VAR
+	Inserted in ScopeTable# 1 at position 640, 3
+Cmd 503: I haluwak VAR
+	Inserted in ScopeTable# 1 at position 603, 3
+Cmd 504: I sudi STRUCT FLOAT zoqeqo BOOL made
+	Inserted in ScopeTable# 1 at position 43, 1
+Cmd 505: I zonuhu STRUCT STRING zuqeyu FLOAT sosixi INT gequko
+	Inserted in ScopeTable# 1 at position 345, 2
+Cmd 506: I tahuw VAR
+	Inserted in ScopeTable# 1 at position 674, 1
+Cmd 507: I zohi NUMBER
+	Inserted in ScopeTable# 1 at position 121, 1
+Cmd 508: I huniyag NUMBER
+	Inserted in ScopeTable# 1 at position 307, 1
+Cmd 509: I zogiye FUNCTION INT FLOAT
+	Inserted in ScopeTable# 1 at position 426, 3
+Cmd 510: I godusip STRUCT BOOL wuhodu BOOL hedogi BOOL fifapu
+	Inserted in ScopeTable# 1 at position 144, 2
+Cmd 511: I danukon VAR
+	Inserted in ScopeTable# 1 at position 366, 1
+Cmd 512: I rupaku BOOL
+	Inserted in ScopeTable# 1 at position 606, 2
+Cmd 513: I sip UNION BOOL budaqeka INT comaco BOOL gizefixa
+	Inserted in ScopeTable# 1 at position 395, 1
+Cmd 514: I hizila FUNCTION BOOL FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 599, 1
+Cmd 515: I ruloneka VAR
+	Inserted in ScopeTable# 1 at position 461, 1
+Cmd 516: I pedokan FUNCTION FLOAT INT STRING
+	Inserted in ScopeTable# 1 at position 156, 1
+Cmd 517: I pelufaxo UNION BOOL yuha INT kunuci FLOAT segohe INT wuhimaba
+	Inserted in ScopeTable# 1 at position 282, 1
+Cmd 518: I famonayu VAR
+	Inserted in ScopeTable# 1 at position 326, 1
+Cmd 519: I wileha BOOL
+	Inserted in ScopeTable# 1 at position 265, 1
+Cmd 520: I dah NUMBER
+	Inserted in ScopeTable# 1 at position 63, 1
+Cmd 521: I tuyi BOOL
+	Inserted in ScopeTable# 1 at position 365, 2
+Cmd 522: I tamaboc VAR
+	Inserted in ScopeTable# 1 at position 592, 1
+Cmd 523: I bejoy FUNCTION BOOL BOOL
+	Inserted in ScopeTable# 1 at position 647, 1
+Cmd 524: I fob STRUCT FLOAT jot BOOL gego BOOL jozovuzi
+	Inserted in ScopeTable# 1 at position 533, 2
+Cmd 525: I puzovero VAR
+	Inserted in ScopeTable# 1 at position 522, 1
+Cmd 526: I desu VAR
+	Inserted in ScopeTable# 1 at position 154, 2
+Cmd 527: I dojacud BOOL
+	Inserted in ScopeTable# 1 at position 464, 1
+Cmd 528: I kamo RELOP
+	Inserted in ScopeTable# 1 at position 470, 1
+Cmd 529: I zamuceg VAR
+	Inserted in ScopeTable# 1 at position 473, 1
+Cmd 530: I bofoz UNION BOOL lawupuba FLOAT fozav BOOL vamuruni
+	Inserted in ScopeTable# 1 at position 660, 1
+Cmd 531: I kubi RELOP
+	Inserted in ScopeTable# 1 at position 315, 2
+Cmd 532: I fuk BOOL
+	Inserted in ScopeTable# 1 at position 345, 3
+Cmd 533: I radofi UNION STRING wuxug FLOAT topidic FLOAT mideq STRING lekeyus
+	Inserted in ScopeTable# 1 at position 501, 1
+Cmd 534: I xenez STRUCT BOOL nosujo INT xahe FLOAT kejut STRING suwedi
+	Inserted in ScopeTable# 1 at position 663, 1
+Cmd 535: I tuk VAR
+	Inserted in ScopeTable# 1 at position 396, 2
+Cmd 536: I nicuxuxa VAR
+	Inserted in ScopeTable# 1 at position 34, 1
+Cmd 537: I polonowo BOOL
+	Inserted in ScopeTable# 1 at position 286, 1
+Cmd 538: I telaf STRUCT BOOL yolovo BOOL ruje FLOAT turoroz INT latu
+	Inserted in ScopeTable# 1 at position 24, 1
+Cmd 539: I yiz VAR
+	Inserted in ScopeTable# 1 at position 603, 4
+Cmd 540: I gug VAR
+	Inserted in ScopeTable# 1 at position 278, 2
+Cmd 541: I bexodop UNION STRING mis INT hotelup
+	Inserted in ScopeTable# 1 at position 485, 3
+Cmd 542: I cohiq VAR
+	Inserted in ScopeTable# 1 at position 640, 4
+Cmd 543: I xuy RELOP
+	Inserted in ScopeTable# 1 at position 225, 1
+Cmd 544: I wivepeq RELOP
+	Inserted in ScopeTable# 1 at position 33, 1
+Cmd 545: I laso STRUCT STRING podaba BOOL hofabobi FLOAT duvamate
+	Inserted in ScopeTable# 1 at position 410, 2
+Cmd 546: I kiwanaku RELOP
+	Inserted in ScopeTable# 1 at position 183, 1
+Cmd 547: I benibi VAR
+	Inserted in ScopeTable# 1 at position 213, 2
+Cmd 548: I quwap NUMBER
+	Inserted in ScopeTable# 1 at position 426, 4
+Cmd 549: I wiquq RELOP
+	Inserted in ScopeTable# 1 at position 107, 1
+Cmd 550: I padeyosu VAR
+	Inserted in ScopeTable# 1 at position 282, 2
+Cmd 551: I div STRUCT STRING zuy STRING homenop INT xuyidoca
+	Inserted in ScopeTable# 1 at position 160, 1
+Cmd 552: I nujov VAR
+	Inserted in ScopeTable# 1 at position 30, 1
+Cmd 553: I qop BOOL
+	Inserted in ScopeTable# 1 at position 687, 2
+Cmd 554: I dexajeb UNION INT tome INT dikoyaz STRING wud FLOAT valufe
+	Inserted in ScopeTable# 1 at position 517, 2
+Cmd 555: I hipu NUMBER
+	Inserted in ScopeTable# 1 at position 439, 2
+Cmd 556: I gise VAR
+	Inserted in ScopeTable# 1 at position 543, 2
+Cmd 557: I suvirix STRUCT STRING soxim BOOL torajah BOOL mas BOOL wakow
+	Inserted in ScopeTable# 1 at position 488, 1
+Cmd 558: I piba VAR
+	Inserted in ScopeTable# 1 at position 104, 2
+Cmd 559: I qohi BOOL
+	Inserted in ScopeTable# 1 at position 155, 1
+Cmd 560: I jofoke BOOL
+	Inserted in ScopeTable# 1 at position 9, 3
+Cmd 561: I sehaxi RELOP
+	Inserted in ScopeTable# 1 at position 648, 1
+Cmd 562: I zux STRUCT INT mujuxux STRING cog STRING gager INT nexow
+	Inserted in ScopeTable# 1 at position 623, 1
+Cmd 563: I nehigeye RELOP
+	Inserted in ScopeTable# 1 at position 32, 1
+Cmd 564: I jayexox FUNCTION STRING INT BOOL FLOAT
+	Inserted in ScopeTable# 1 at position 107, 2
+Cmd 565: I navucik BOOL
+	Inserted in ScopeTable# 1 at position 395, 2
+Cmd 566: I sivuyoc UNION FLOAT fic FLOAT liwoxor FLOAT mivorofu FLOAT cucug
+	Inserted in ScopeTable# 1 at position 646, 1
+Cmd 567: I sob NUMBER
+	Inserted in ScopeTable# 1 at position 206, 2
+Cmd 568: I pafojad RELOP
+	Inserted in ScopeTable# 1 at position 40, 1
+Cmd 569: I zar NUMBER
+	Inserted in ScopeTable# 1 at position 217, 2
+Cmd 570: I guvaha VAR
+	Inserted in ScopeTable# 1 at position 82, 1
+Cmd 571: I nufef BOOL
+	Inserted in ScopeTable# 1 at position 259, 2
+Cmd 572: I vawavi VAR
+	Inserted in ScopeTable# 1 at position 331, 1
+Cmd 573: I teqesi STRUCT FLOAT picifa INT juloti BOOL madejiz STRING meh
+	Inserted in ScopeTable# 1 at position 467, 1
+Cmd 574: I teqe VAR
+	Inserted in ScopeTable# 1 at position 16, 2
+Cmd 575: I zisosaho VAR
+	Inserted in ScopeTable# 1 at position 693, 2
+Cmd 576: I kuve FUNCTION BOOL BOOL FLOAT
+	Inserted in ScopeTable# 1 at position 448, 1
+Cmd 577: I vir VAR
+	Inserted in ScopeTable# 1 at position 86, 3
+Cmd 578: I pehudil STRUCT FLOAT mimojove BOOL mofi INT vuqid
+	Inserted in ScopeTable# 1 at position 75, 1
+Cmd 579: I qidi NUMBER
+	Inserted in ScopeTable# 1 at position 684, 2
+Cmd 580: I zozo BOOL
+	Inserted in ScopeTable# 1 at position 624, 3
+Cmd 581: I jezif VAR
+	Inserted in ScopeTable# 1 at position 34, 2
+Cmd 582: I juxo FUNCTION STRING FLOAT INT STRING
+	Inserted in ScopeTable# 1 at position 94, 1
+Cmd 583: I rew VAR
+	Inserted in ScopeTable# 1 at position 457, 1
+Cmd 584: I guyiligo NUMBER
+	Inserted in ScopeTable# 1 at position 229, 1
+Cmd 585: I banis VAR
+	Inserted in ScopeTable# 1 at position 182, 2
+Cmd 586: I ruzoqiwa STRUCT FLOAT taxi BOOL rayoy INT pove INT ravof
+	Inserted in ScopeTable# 1 at position 153, 1
+Cmd 587: I cujo NUMBER
+	Inserted in ScopeTable# 1 at position 376, 3
+Cmd 588: I puf VAR
+	Inserted in ScopeTable# 1 at position 548, 2
+Cmd 589: I lahazima NUMBER
+	Inserted in ScopeTable# 1 at position 402, 1
+Cmd 590: I voxevepi FUNCTION STRING BOOL FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 211, 1
+Cmd 591: I lax VAR
+	Inserted in ScopeTable# 1 at position 442, 4
+Cmd 592: I yip VAR
+	Inserted in ScopeTable# 1 at position 69, 4
+Cmd 593: I ric BOOL
+	Inserted in ScopeTable# 1 at position 49, 1
+Cmd 594: I newamew UNION STRING recu FLOAT fiduwi
+	Inserted in ScopeTable# 1 at position 565, 2
+Cmd 595: I sehu STRUCT INT neci BOOL cetabuda FLOAT cad BOOL rab
+	Inserted in ScopeTable# 1 at position 331, 2
+Cmd 596: I fihig UNION BOOL tavara STRING fudujuqa INT xijugile
+	Inserted in ScopeTable# 1 at position 8, 2
+Cmd 597: I yekewu VAR
+	Inserted in ScopeTable# 1 at position 377, 2
+Cmd 598: I hivuw STRUCT STRING cizudog FLOAT gadoson
+	Inserted in ScopeTable# 1 at position 325, 1
+Cmd 599: I cofis VAR
+	Inserted in ScopeTable# 1 at position 226, 3
+Cmd 600: I taw VAR
+	Inserted in ScopeTable# 1 at position 230, 2
+Cmd 601: I tawo RELOP
+	Inserted in ScopeTable# 1 at position 247, 1
+Cmd 602: I zix RELOP
+	Inserted in ScopeTable# 1 at position 101, 2
+Cmd 603: I cocubih FUNCTION FLOAT FLOAT STRING
+	Inserted in ScopeTable# 1 at position 87, 2
+Cmd 604: I yeko UNION FLOAT bojef FLOAT diy STRING xejijote
+	Inserted in ScopeTable# 1 at position 68, 4
+Cmd 605: I mubazoq VAR
+	Inserted in ScopeTable# 1 at position 118, 3
+Cmd 606: I diwah VAR
+	Inserted in ScopeTable# 1 at position 125, 1
+Cmd 607: I moxec VAR
+	Inserted in ScopeTable# 1 at position 623, 2
+Cmd 608: I gazitol NUMBER
+	Inserted in ScopeTable# 1 at position 65, 1
+Cmd 609: I yafo VAR
+	Inserted in ScopeTable# 1 at position 183, 2
+Cmd 610: I nicowu STRUCT INT cetiqa STRING mik STRING lefot
+	Inserted in ScopeTable# 1 at position 675, 3
+Cmd 611: I curewufi VAR
+	Inserted in ScopeTable# 1 at position 94, 2
+Cmd 612: I xayute VAR
+	Inserted in ScopeTable# 1 at position 320, 2
+Cmd 613: I kizu VAR
+	Inserted in ScopeTable# 1 at position 107, 3
+Cmd 614: I sehofax VAR
+	Inserted in ScopeTable# 1 at position 577, 1
+Cmd 615: I zob VAR
+	Inserted in ScopeTable# 1 at position 646, 2
+Cmd 616: I calo VAR
+	Inserted in ScopeTable# 1 at position 371, 3
+Cmd 617: I hik VAR
+	Inserted in ScopeTable# 1 at position 63, 2
+Cmd 618: I ruzez RELOP
+	Inserted in ScopeTable# 1 at position 111, 1
+Cmd 619: I yubohu VAR
+	Inserted in ScopeTable# 1 at position 225, 2
+Cmd 620: I rage STRUCT FLOAT xudetu INT qisoqad BOOL guyitiv FLOAT kudeluho
+	Inserted in ScopeTable# 1 at position 537, 2
+Cmd 621: I melit UNION BOOL tipotup INT kitupo STRING fupiti
+	Inserted in ScopeTable# 1 at position 430, 2
+Cmd 622: I bifeyax VAR
+	Inserted in ScopeTable# 1 at position 263, 1
+Cmd 623: I teqolur VAR
+	Inserted in ScopeTable# 1 at position 485, 4
+Cmd 624: I kizebi BOOL
+	Inserted in ScopeTable# 1 at position 258, 3
+Cmd 625: I bokon VAR
+	Inserted in ScopeTable# 1 at position 499, 2
+Cmd 626: I zaf FUNCTION FLOAT INT BOOL INT
+	Inserted in ScopeTable# 1 at position 516, 1
+Cmd 627: I haluwe NUMBER
+	Inserted in ScopeTable# 1 at position 499, 3
+Cmd 628: I leyaxidi VAR
+	Inserted in ScopeTable# 1 at position 179, 1
+Cmd 629: I veg STRUCT INT nusu BOOL yacopame FLOAT carepizo BOOL rive
+	Inserted in ScopeTable# 1 at position 384, 1
+Cmd 630: I gamar VAR
+	Inserted in ScopeTable# 1 at position 189, 2
+Cmd 631: I hudanofi VAR
+	Inserted in ScopeTable# 1 at position 271, 1
+Cmd 632: I nolefo BOOL
+	Inserted in ScopeTable# 1 at position 326, 2
+Cmd 633: I kaqoje FUNCTION BOOL BOOL BOOL STRING
+	Inserted in ScopeTable# 1 at position 339, 1
+Cmd 634: I kapetig UNION INT yam FLOAT geze STRING fer
+	Inserted in ScopeTable# 1 at position 185, 2
+Cmd 635: I pecec VAR
+	Inserted in ScopeTable# 1 at position 494, 2
+Cmd 636: I saji NUMBER
+	Inserted in ScopeTable# 1 at position 312, 2
+Cmd 637: I ledu VAR
+	Inserted in ScopeTable# 1 at position 328, 1
+Cmd 638: I gin VAR
+	Inserted in ScopeTable# 1 at position 490, 2
+Cmd 639: I tenazi VAR
+	Inserted in ScopeTable# 1 at position 422, 2
+Cmd 640: I pehugu VAR
+	Inserted in ScopeTable# 1 at position 365, 3
+Cmd 641: I zayupes VAR
+	Inserted in ScopeTable# 1 at position 230, 3
+Cmd 642: I kirafibe VAR
+	Inserted in ScopeTable# 1 at position 269, 2
+Cmd 643: I faxowe VAR
+	Inserted in ScopeTable# 1 at position 608, 2
+Cmd 644: I wibavob VAR
+	Inserted in ScopeTable# 1 at position 435, 2
+Cmd 645: I jelu VAR
+	Inserted in ScopeTable# 1 at position 321, 1
+Cmd 646: I fefaripa BOOL
+	Inserted in ScopeTable# 1 at position 538, 1
+Cmd 647: I momaruqu UNION STRING moviwato STRING segeqa FLOAT virezoda FLOAT ziz
+	Inserted in ScopeTable# 1 at position 690, 1
+Cmd 648: I rolov STRUCT BOOL heso BOOL kiti BOOL jehagaja BOOL zicobom
+	Inserted in ScopeTable# 1 at position 267, 2
+Cmd 649: I cevox BOOL
+	Inserted in ScopeTable# 1 at position 205, 2
+Cmd 650: I xike VAR
+	Inserted in ScopeTable# 1 at position 173, 1
+Cmd 651: I quse VAR
+	Inserted in ScopeTable# 1 at position 308, 1
+Cmd 652: I dovu VAR
+	Inserted in ScopeTable# 1 at position 486, 3
+Cmd 653: I ceme BOOL
+	Inserted in ScopeTable# 1 at position 599, 2
+Cmd 654: I fey VAR
+	Inserted in ScopeTable# 1 at position 119, 1
+Cmd 655: I jehakovi VAR
+	Inserted in ScopeTable# 1 at position 281, 3
+Cmd 656: I qegobu BOOL
+	Inserted in ScopeTable# 1 at position 551, 2
+Cmd 657: I baqacosi VAR
+	Inserted in ScopeTable# 1 at position 12, 1
+Cmd 658: I makiwu STRUCT INT voli BOOL hag FLOAT zucegu
+	Inserted in ScopeTable# 1 at position 595, 2
+Cmd 659: I lukipeme RELOP
+	Inserted in ScopeTable# 1 at position 445, 1
+Cmd 660: I defafa VAR
+	Inserted in ScopeTable# 1 at position 452, 1
+Cmd 661: I yulunonu BOOL
+	Inserted in ScopeTable# 1 at position 404, 2
+Cmd 662: I qovocef BOOL
+	Inserted in ScopeTable# 1 at position 54, 1
+Cmd 663: I nawemo VAR
+	Inserted in ScopeTable# 1 at position 546, 4
+Cmd 664: I yizinan FUNCTION STRING INT
+	Inserted in ScopeTable# 1 at position 577, 2
+Cmd 665: I cif RELOP
+	Inserted in ScopeTable# 1 at position 222, 2
+Cmd 666: I cegiy RELOP
+	Inserted in ScopeTable# 1 at position 49, 2
+Cmd 667: I piwovu BOOL
+	Inserted in ScopeTable# 1 at position 241, 2
+Cmd 668: I muv UNION STRING yovel INT coyubek INT taxe BOOL fezu
+	Inserted in ScopeTable# 1 at position 670, 1
+Cmd 669: I jodamad VAR
+	Inserted in ScopeTable# 1 at position 216, 1
+Cmd 670: I zoko BOOL
+	Inserted in ScopeTable# 1 at position 285, 1
+Cmd 671: I lif UNION INT suw FLOAT qosip STRING mujabef
+	Inserted in ScopeTable# 1 at position 587, 2
+Cmd 672: I fixewika NUMBER
+	Inserted in ScopeTable# 1 at position 670, 2
+Cmd 673: I siq VAR
+	Inserted in ScopeTable# 1 at position 306, 2
+Cmd 674: I god UNION FLOAT fiwoqut STRING qebohul
+	Inserted in ScopeTable# 1 at position 319, 3
+Cmd 675: I yegik STRUCT FLOAT loj FLOAT waheyija INT hibu
+	Inserted in ScopeTable# 1 at position 186, 2
+Cmd 676: I zuro UNION INT hiqec STRING yahiburu STRING xilorapa
+	Inserted in ScopeTable# 1 at position 58, 1
+Cmd 677: I qewic VAR
+	Inserted in ScopeTable# 1 at position 546, 5
+Cmd 678: I samipo VAR
+	Inserted in ScopeTable# 1 at position 341, 1
+Cmd 679: I reloxu VAR
+	Inserted in ScopeTable# 1 at position 537, 3
+Cmd 680: I kicak VAR
+	Inserted in ScopeTable# 1 at position 478, 1
+Cmd 681: I focugi FUNCTION INT STRING FLOAT
+	Inserted in ScopeTable# 1 at position 256, 1
+Cmd 682: I jajodu BOOL
+	Inserted in ScopeTable# 1 at position 70, 2
+Cmd 683: I xadariw VAR
+	Inserted in ScopeTable# 1 at position 24, 2
+Cmd 684: I ruy UNION BOOL woru STRING qusorace
+	Inserted in ScopeTable# 1 at position 28, 1
+Cmd 685: I voxi VAR
+	Inserted in ScopeTable# 1 at position 302, 2
+Cmd 686: I meyaf VAR
+	Inserted in ScopeTable# 1 at position 264, 3
+Cmd 687: I negaqev RELOP
+	Inserted in ScopeTable# 1 at position 418, 2
+Cmd 688: I sociduqi BOOL
+	Inserted in ScopeTable# 1 at position 509, 1
+Cmd 689: I bumaho NUMBER
+	Inserted in ScopeTable# 1 at position 275, 1
+Cmd 690: I casetuya BOOL
+	Inserted in ScopeTable# 1 at position 384, 2
+Cmd 691: I nudo VAR
+	Inserted in ScopeTable# 1 at position 303, 1
+Cmd 692: I rivuj VAR
+	Inserted in ScopeTable# 1 at position 73, 3
+Cmd 693: I qehi VAR
+	Inserted in ScopeTable# 1 at position 577, 3
+Cmd 694: I lajo VAR
+	Inserted in ScopeTable# 1 at position 188, 2
+Cmd 695: I pol VAR
+	Inserted in ScopeTable# 1 at position 122, 1
+Cmd 696: I gub UNION FLOAT fiba STRING lutajo
+	Inserted in ScopeTable# 1 at position 11, 3
+Cmd 697: I qoha BOOL
+	Inserted in ScopeTable# 1 at position 136, 2
+Cmd 698: I zaneqiza VAR
+	Inserted in ScopeTable# 1 at position 111, 2
+Cmd 699: I nalahihu RELOP
+	Inserted in ScopeTable# 1 at position 371, 4
+Cmd 700: I rupego STRUCT BOOL pepet FLOAT balaxef
+	Inserted in ScopeTable# 1 at position 122, 2
+Cmd 701: I saq BOOL
+	Inserted in ScopeTable# 1 at position 387, 2
+Cmd 702: I qaxawew VAR
+	Inserted in ScopeTable# 1 at position 76, 1
+Cmd 703: I kixa FUNCTION STRING FLOAT
+	Inserted in ScopeTable# 1 at position 442, 5
+Cmd 704: I hiv RELOP
+	Inserted in ScopeTable# 1 at position 311, 1
+Cmd 705: I buqaxema UNION INT wevik STRING lobopebo
+	Inserted in ScopeTable# 1 at position 188, 3
+Cmd 706: I wipiqowi RELOP
+	Inserted in ScopeTable# 1 at position 21, 1
+Cmd 707: I vijek BOOL
+	Inserted in ScopeTable# 1 at position 205, 3
+Cmd 708: I fegiconu VAR
+	Inserted in ScopeTable# 1 at position 133, 1
+Cmd 709: I ribida VAR
+	Inserted in ScopeTable# 1 at position 5, 1
+Cmd 710: I wefap VAR
+	Inserted in ScopeTable# 1 at position 22, 1
+Cmd 711: I tuko FUNCTION STRING BOOL FLOAT
+	Inserted in ScopeTable# 1 at position 23, 1
+Cmd 712: I jafefiq FUNCTION FLOAT STRING BOOL INT
+	Inserted in ScopeTable# 1 at position 519, 2
+Cmd 713: I dapigozi VAR
+	Inserted in ScopeTable# 1 at position 217, 3
+Cmd 714: I maza VAR
+	Inserted in ScopeTable# 1 at position 126, 1
+Cmd 715: I muwo UNION FLOAT monuz INT yeq
+	Inserted in ScopeTable# 1 at position 451, 1
+Cmd 716: I jam STRUCT BOOL bisagi INT nubugoto INT fawo
+	Inserted in ScopeTable# 1 at position 546, 6
+Cmd 717: I rirujuk VAR
+	Inserted in ScopeTable# 1 at position 117, 1
+Cmd 718: I jafaju UNION STRING giqofom BOOL let INT hagasiw STRING kadeq
+	Inserted in ScopeTable# 1 at position 14, 1
+Cmd 719: I zaxey NUMBER
+	Inserted in ScopeTable# 1 at position 118, 4
+Cmd 720: I fetabi BOOL
+	Inserted in ScopeTable# 1 at position 20, 2
+Cmd 721: I zabul UNION FLOAT dogodi FLOAT wayebu
+	Inserted in ScopeTable# 1 at position 240, 1
+Cmd 722: I xaji UNION BOOL pan FLOAT cosun
+	Inserted in ScopeTable# 1 at position 277, 3
+Cmd 723: I nelasog UNION BOOL xayi FLOAT sadep BOOL natija
+	Inserted in ScopeTable# 1 at position 172, 1
+Cmd 724: I wiw VAR
+	Inserted in ScopeTable# 1 at position 360, 1
+Cmd 725: I lojotad STRUCT FLOAT hezuvi INT muwe
+	Inserted in ScopeTable# 1 at position 545, 2
+Cmd 726: I dejeyi UNION STRING gadalob FLOAT muj
+	Inserted in ScopeTable# 1 at position 226, 4
+Cmd 727: I cafe STRUCT STRING ruxidu FLOAT woripuju
+	Inserted in ScopeTable# 1 at position 527, 2
+Cmd 728: I xaju BOOL
+	Inserted in ScopeTable# 1 at position 690, 2
+Cmd 729: I wevoje UNION STRING kitepo FLOAT hiwote STRING lipuva STRING nisid
+	Inserted in ScopeTable# 1 at position 427, 2
+Cmd 730: I vuno VAR
+	Inserted in ScopeTable# 1 at position 2, 2
+Cmd 731: I wafejew NUMBER
+	Inserted in ScopeTable# 1 at position 110, 1
+Cmd 732: I pekujide FUNCTION FLOAT BOOL INT FLOAT
+	Inserted in ScopeTable# 1 at position 426, 5
+Cmd 733: I fif VAR
+	Inserted in ScopeTable# 1 at position 673, 2
+Cmd 734: I lupik FUNCTION FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 250, 2
+Cmd 735: I pojusuri VAR
+	Inserted in ScopeTable# 1 at position 305, 1
+Cmd 736: I ziyoyi VAR
+	Inserted in ScopeTable# 1 at position 477, 2
+Cmd 737: I liciweku NUMBER
+	Inserted in ScopeTable# 1 at position 243, 1
+Cmd 738: I dijiq VAR
+	Inserted in ScopeTable# 1 at position 310, 3
+Cmd 739: I pedinen VAR
+	Inserted in ScopeTable# 1 at position 488, 2
+Cmd 740: I piliwuvi BOOL
+	Inserted in ScopeTable# 1 at position 428, 2
+Cmd 741: I dacalab VAR
+	Inserted in ScopeTable# 1 at position 455, 1
+Cmd 742: I zigic VAR
+	Inserted in ScopeTable# 1 at position 467, 2
+Cmd 743: I razoj UNION INT digol BOOL yake
+	Inserted in ScopeTable# 1 at position 500, 2
+Cmd 744: I xix RELOP
+	Inserted in ScopeTable# 1 at position 94, 3
+Cmd 745: I voco VAR
+	Inserted in ScopeTable# 1 at position 163, 3
+Cmd 746: I sane VAR
+	Inserted in ScopeTable# 1 at position 659, 1
+Cmd 747: I puvuye VAR
+	Inserted in ScopeTable# 1 at position 157, 1
+Cmd 748: I vejaxojo VAR
+	Inserted in ScopeTable# 1 at position 152, 3
+Cmd 749: I vura VAR
+	Inserted in ScopeTable# 1 at position 33, 2
+Cmd 750: I xudeqixu STRUCT INT fenim STRING boduva INT ximegiso
+	Inserted in ScopeTable# 1 at position 529, 1
+Cmd 751: I jujice NUMBER
+	Inserted in ScopeTable# 1 at position 536, 5
+Cmd 752: I polo VAR
+	Inserted in ScopeTable# 1 at position 56, 2
+Cmd 753: I mozo FUNCTION STRING FLOAT INT
+	Inserted in ScopeTable# 1 at position 602, 1
+Cmd 754: I fureyehi VAR
+	Inserted in ScopeTable# 1 at position 335, 1
+Cmd 755: I zotacel STRUCT INT vid FLOAT fuqixeq STRING nisef
+	Inserted in ScopeTable# 1 at position 101, 3
+Cmd 756: I setuxuv STRUCT BOOL pulu STRING zitak STRING vakewoqo
+	Inserted in ScopeTable# 1 at position 438, 1
+Cmd 757: I bone VAR
+	Inserted in ScopeTable# 1 at position 669, 2
+Cmd 758: I kuzut NUMBER
+	Inserted in ScopeTable# 1 at position 166, 1
+Cmd 759: I haxe VAR
+	Inserted in ScopeTable# 1 at position 282, 3
+Cmd 760: I subuqi VAR
+	Inserted in ScopeTable# 1 at position 117, 2
+Cmd 761: I toyejodi STRUCT BOOL rex INT fukinal FLOAT qit BOOL jahof
+	Inserted in ScopeTable# 1 at position 229, 2
+Cmd 762: I sile VAR
+	Inserted in ScopeTable# 1 at position 50, 1
+Cmd 763: I dele VAR
+	Inserted in ScopeTable# 1 at position 399, 2
+Cmd 764: I qoyilim VAR
+	Inserted in ScopeTable# 1 at position 337, 2
+Cmd 765: I yihu NUMBER
+	Inserted in ScopeTable# 1 at position 563, 2
+Cmd 766: I yil VAR
+	Inserted in ScopeTable# 1 at position 387, 3
+Cmd 767: I bimelini VAR
+	Inserted in ScopeTable# 1 at position 222, 3
+Cmd 768: I mugiro VAR
+	Inserted in ScopeTable# 1 at position 57, 2
+Cmd 769: I saqogubu BOOL
+	Inserted in ScopeTable# 1 at position 453, 2
+Cmd 770: I nenijuz VAR
+	Inserted in ScopeTable# 1 at position 450, 1
+Cmd 771: I suguy BOOL
+	Inserted in ScopeTable# 1 at position 531, 1
+Cmd 772: I yiqa VAR
+	Inserted in ScopeTable# 1 at position 265, 2
+Cmd 773: I ladija STRUCT INT fuxore BOOL xod FLOAT budatiko
+	Inserted in ScopeTable# 1 at position 232, 1
+Cmd 774: I turahe VAR
+	Inserted in ScopeTable# 1 at position 681, 1
+Cmd 775: I qin NUMBER
+	Inserted in ScopeTable# 1 at position 136, 3
+Cmd 776: I busedec NUMBER
+	Inserted in ScopeTable# 1 at position 312, 3
+Cmd 777: I ruho VAR
+	Inserted in ScopeTable# 1 at position 279, 2
+Cmd 778: I xiqijok STRUCT INT libul STRING fiqiwaq INT haronene
+	Inserted in ScopeTable# 1 at position 450, 2
+Cmd 779: I benus VAR
+	Inserted in ScopeTable# 1 at position 336, 3
+Cmd 780: I git VAR
+	Inserted in ScopeTable# 1 at position 293, 1
+Cmd 781: I neviki VAR
+	Inserted in ScopeTable# 1 at position 682, 2
+Cmd 782: I kic NUMBER
+	Inserted in ScopeTable# 1 at position 225, 3
+Cmd 783: I nar BOOL
+	Inserted in ScopeTable# 1 at position 484, 2
+Cmd 784: I ralub FUNCTION INT STRING FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 202, 2
+Cmd 785: I qudur FUNCTION STRING BOOL STRING
+	Inserted in ScopeTable# 1 at position 688, 2
+Cmd 786: I disi BOOL
+	Inserted in ScopeTable# 1 at position 314, 1
+Cmd 787: I tusiz RELOP
+	Inserted in ScopeTable# 1 at position 452, 2
+Cmd 788: I musegafa BOOL
+	Inserted in ScopeTable# 1 at position 477, 3
+Cmd 789: I qeyag RELOP
+	Inserted in ScopeTable# 1 at position 171, 1
+Cmd 790: I rokuzefa STRUCT FLOAT fusi STRING hofirivi
+	Inserted in ScopeTable# 1 at position 29, 1
+Cmd 791: I keqa STRUCT BOOL jazaz BOOL moliwiw
+	Inserted in ScopeTable# 1 at position 655, 1
+Cmd 792: I voqize STRUCT INT hugifim FLOAT lite
+	Inserted in ScopeTable# 1 at position 270, 1
+Cmd 793: I pecey RELOP
+	Inserted in ScopeTable# 1 at position 36, 1
+Cmd 794: I suha STRUCT BOOL ruh FLOAT tila INT nipew BOOL fijetax
+	Inserted in ScopeTable# 1 at position 627, 3
+Cmd 795: I resom VAR
+	Inserted in ScopeTable# 1 at position 651, 2
+Cmd 796: I voyuge VAR
+	Inserted in ScopeTable# 1 at position 619, 2
+Cmd 797: I pose VAR
+	Inserted in ScopeTable# 1 at position 368, 1
+Cmd 798: I baw VAR
+	Inserted in ScopeTable# 1 at position 282, 4
+Cmd 799: I saqonob VAR
+	Inserted in ScopeTable# 1 at position 130, 2
+Cmd 800: I yuvacelo STRUCT FLOAT peke STRING lepejo BOOL mom
+	Inserted in ScopeTable# 1 at position 636, 1
+Cmd 801: I kipi VAR
+	Inserted in ScopeTable# 1 at position 342, 1
+Cmd 802: I map NUMBER
+	Inserted in ScopeTable# 1 at position 421, 1
+Cmd 803: I wobaje FUNCTION INT STRING BOOL
+	Inserted in ScopeTable# 1 at position 97, 3
+Cmd 804: I yotiku STRUCT FLOAT sugam FLOAT zojuyec STRING cataxabe INT fifija
+	Inserted in ScopeTable# 1 at position 32, 2
+Cmd 805: I codo VAR
+	Inserted in ScopeTable# 1 at position 357, 3
+Cmd 806: I werojeq VAR
+	Inserted in ScopeTable# 1 at position 502, 2
+Cmd 807: I lumebodi NUMBER
+	Inserted in ScopeTable# 1 at position 233, 2
+Cmd 808: I jazobeco NUMBER
+	Inserted in ScopeTable# 1 at position 343, 1
+Cmd 809: I lasuwod RELOP
+	Inserted in ScopeTable# 1 at position 517, 3
+Cmd 810: I didecuma VAR
+	Inserted in ScopeTable# 1 at position 229, 3
+Cmd 811: I suva VAR
+	Inserted in ScopeTable# 1 at position 226, 5
+Cmd 812: I feh VAR
+	Inserted in ScopeTable# 1 at position 68, 5
+Cmd 813: I hekatufo RELOP
+	Inserted in ScopeTable# 1 at position 184, 2
+Cmd 814: I newodoto RELOP
+	Inserted in ScopeTable# 1 at position 91, 2
+Cmd 815: I zayab VAR
+	Inserted in ScopeTable# 1 at position 616, 2
+Cmd 816: I rowosam STRUCT STRING jibaq STRING jed INT gurupa STRING vulaze
+	Inserted in ScopeTable# 1 at position 94, 4
+Cmd 817: I dakaluj NUMBER
+	Inserted in ScopeTable# 1 at position 123, 1
+Cmd 818: I mafo BOOL
+	Inserted in ScopeTable# 1 at position 656, 2
+Cmd 819: I hopo VAR
+	Inserted in ScopeTable# 1 at position 386, 2
+Cmd 820: I tekuhem NUMBER
+	Inserted in ScopeTable# 1 at position 189, 3
+Cmd 821: I jeke FUNCTION FLOAT BOOL BOOL
+	Inserted in ScopeTable# 1 at position 180, 3
+Cmd 822: I sibefa UNION FLOAT yasu STRING nuzok INT wuz INT soreyum
+	Inserted in ScopeTable# 1 at position 205, 4
+Cmd 823: I jay STRUCT FLOAT mav INT hirugo
+	Inserted in ScopeTable# 1 at position 171, 2
+Cmd 824: I ledex STRUCT FLOAT hecewo FLOAT himikufa STRING kevezabi
+	Inserted in ScopeTable# 1 at position 559, 1
+Cmd 825: I yuqiros VAR
+	Inserted in ScopeTable# 1 at position 232, 2
+Cmd 826: I nebufar VAR
+	Inserted in ScopeTable# 1 at position 549, 1
+Cmd 827: I bezike VAR
+	Inserted in ScopeTable# 1 at position 535, 2
+Cmd 828: I zemifute STRUCT FLOAT caxat INT rufiqiqu
+	Inserted in ScopeTable# 1 at position 241, 3
+Cmd 829: I rohido VAR
+	Inserted in ScopeTable# 1 at position 34, 3
+Cmd 830: I rif BOOL
+	Inserted in ScopeTable# 1 at position 297, 2
+Cmd 831: I gahon VAR
+	Inserted in ScopeTable# 1 at position 605, 2
+Cmd 832: I sirayof BOOL
+	Inserted in ScopeTable# 1 at position 275, 2
+Cmd 833: I ragekaz VAR
+	Inserted in ScopeTable# 1 at position 185, 3
+Cmd 834: I xazoli BOOL
+	Inserted in ScopeTable# 1 at position 565, 3
+Cmd 835: I zadubo STRUCT FLOAT falo BOOL wed FLOAT jiqe
+	Inserted in ScopeTable# 1 at position 522, 2
+Cmd 836: I qeseveyo VAR
+	Inserted in ScopeTable# 1 at position 653, 3
+Cmd 837: I buyex RELOP
+	Inserted in ScopeTable# 1 at position 317, 2
+Cmd 838: I duxopu RELOP
+	Inserted in ScopeTable# 1 at position 645, 2
+Cmd 839: I vohumaxu UNION BOOL qujugun INT qoyapu INT yomohi BOOL yolenusi
+	Inserted in ScopeTable# 1 at position 260, 4
+Cmd 840: I huticura RELOP
+	Inserted in ScopeTable# 1 at position 285, 2
+Cmd 841: I yoh NUMBER
+	Inserted in ScopeTable# 1 at position 10, 3
+Cmd 842: I qap VAR
+	Inserted in ScopeTable# 1 at position 557, 1
+Cmd 843: I maju RELOP
+	Inserted in ScopeTable# 1 at position 269, 3
+Cmd 844: I coxu RELOP
+	Inserted in ScopeTable# 1 at position 658, 1
+Cmd 845: I buxo VAR
+	Inserted in ScopeTable# 1 at position 455, 2
+Cmd 846: I foqa VAR
+	Inserted in ScopeTable# 1 at position 574, 1
+Cmd 847: I dulixamo VAR
+	Inserted in ScopeTable# 1 at position 406, 2
+Cmd 848: I lirewet VAR
+	Inserted in ScopeTable# 1 at position 461, 2
+Cmd 849: I wujekiq VAR
+	Inserted in ScopeTable# 1 at position 55, 3
+Cmd 850: I mifox RELOP
+	Inserted in ScopeTable# 1 at position 560, 2
+Cmd 851: I tozi VAR
+	Inserted in ScopeTable# 1 at position 555, 3
+Cmd 852: I zotij NUMBER
+	Inserted in ScopeTable# 1 at position 689, 2
+Cmd 853: I jijar STRUCT BOOL nehusumo INT cefepeto BOOL baza FLOAT cezugub
+	Inserted in ScopeTable# 1 at position 162, 1
+Cmd 854: I weq UNION INT vaw STRING huxis FLOAT yaqiy STRING pukarep
+	Inserted in ScopeTable# 1 at position 628, 3
+Cmd 855: I xafagid VAR
+	Inserted in ScopeTable# 1 at position 271, 2
+Cmd 856: I volihijo NUMBER
+	Inserted in ScopeTable# 1 at position 524, 1
+Cmd 857: I pokir STRUCT STRING dejes FLOAT jetaqola INT nuwuqabu
+	Inserted in ScopeTable# 1 at position 423, 3
+Cmd 858: I fira BOOL
+	Inserted in ScopeTable# 1 at position 579, 2
+Cmd 859: I nobuhab UNION STRING coga BOOL bidode BOOL vusoden STRING pagapi
+	Inserted in ScopeTable# 1 at position 648, 2
+Cmd 860: I gix FUNCTION INT FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 630, 3
+Cmd 861: I heniyoyu UNION STRING mizuluti BOOL jete STRING xemarifo FLOAT bicahomu
+	Inserted in ScopeTable# 1 at position 11, 4
+Cmd 862: I poleza UNION BOOL koha BOOL taf INT jane INT tojewus
+	Inserted in ScopeTable# 1 at position 633, 1
+Cmd 863: I xopojoga RELOP
+	Inserted in ScopeTable# 1 at position 170, 1
+Cmd 864: I wegutu UNION INT qazoqexa INT coqegeq FLOAT qaxobaw STRING suvaq
+	Inserted in ScopeTable# 1 at position 423, 4
+Cmd 865: I katun VAR
+	Inserted in ScopeTable# 1 at position 341, 2
+Cmd 866: I timikog STRUCT FLOAT yik FLOAT gav STRING kiviw
+	Inserted in ScopeTable# 1 at position 653, 4
+Cmd 867: I dadazol VAR
+	Inserted in ScopeTable# 1 at position 248, 3
+Cmd 868: I sigu RELOP
+	Inserted in ScopeTable# 1 at position 310, 4
+Cmd 869: I sosu VAR
+	Inserted in ScopeTable# 1 at position 641, 2
+Cmd 870: I zolevejo VAR
+	Inserted in ScopeTable# 1 at position 642, 2
+Cmd 871: I ker NUMBER
+	Inserted in ScopeTable# 1 at position 186, 3
+Cmd 872: I tuv UNION STRING jawegopi FLOAT xituhi
+	Inserted in ScopeTable# 1 at position 682, 3
+Cmd 873: I zasus RELOP
+	Inserted in ScopeTable# 1 at position 47, 1
+Cmd 874: I cata BOOL
+	Inserted in ScopeTable# 1 at position 592, 2
+Cmd 875: I ceta STRUCT BOOL laponoh BOOL tawovez FLOAT qokitu FLOAT vadulu
+	Inserted in ScopeTable# 1 at position 252, 2
+Cmd 876: I lexex VAR
+	Inserted in ScopeTable# 1 at position 486, 4
+Cmd 877: I qotakolo NUMBER
+	Inserted in ScopeTable# 1 at position 162, 2
+Cmd 878: I rut VAR
+	Inserted in ScopeTable# 1 at position 276, 3
+Cmd 879: I vaxi VAR
+	Inserted in ScopeTable# 1 at position 195, 3
+Cmd 880: I voqinudu UNION FLOAT kuvogaz FLOAT gelem INT xizepig
+	Inserted in ScopeTable# 1 at position 296, 2
+Cmd 881: I hiled NUMBER
+	Inserted in ScopeTable# 1 at position 58, 2
+Cmd 882: I nekora BOOL
+	Inserted in ScopeTable# 1 at position 274, 4
+Cmd 883: I vew NUMBER
+	Inserted in ScopeTable# 1 at position 422, 3
+Cmd 884: I mudarer VAR
+	Inserted in ScopeTable# 1 at position 569, 1
+Cmd 885: I kojaq NUMBER
+	Inserted in ScopeTable# 1 at position 477, 4
+Cmd 886: I mukibaca STRUCT FLOAT yene FLOAT jelaru STRING devofepu BOOL jaf
+	Inserted in ScopeTable# 1 at position 350, 3
+Cmd 887: I xirekum VAR
+	Inserted in ScopeTable# 1 at position 109, 2
+Cmd 888: I vugeno VAR
+	Inserted in ScopeTable# 1 at position 132, 2
+Cmd 889: I lafow VAR
+	Inserted in ScopeTable# 1 at position 456, 2
+Cmd 890: I vas UNION BOOL quza STRING cezusag BOOL jike FLOAT yujiwilo
+	Inserted in ScopeTable# 1 at position 170, 2
+Cmd 891: I cucilizi UNION STRING javuxaco STRING keginu INT nepocana FLOAT qukutobi
+	Inserted in ScopeTable# 1 at position 177, 1
+Cmd 892: I ruqicude VAR
+	Inserted in ScopeTable# 1 at position 303, 2
+Cmd 893: I lufohe VAR
+	Inserted in ScopeTable# 1 at position 364, 1
+Cmd 894: I numu FUNCTION STRING BOOL INT FLOAT
+	Inserted in ScopeTable# 1 at position 646, 3
+Cmd 895: I zemulo FUNCTION INT FLOAT INT INT
+	Inserted in ScopeTable# 1 at position 205, 5
+Cmd 896: I qiyoh UNION INT laqipi STRING vev STRING nuqinaw STRING wunolan
+	Inserted in ScopeTable# 1 at position 325, 2
+Cmd 897: I luto STRUCT INT demizez BOOL majadama
+	Inserted in ScopeTable# 1 at position 250, 3
+Cmd 898: I tewo FUNCTION BOOL FLOAT
+	Inserted in ScopeTable# 1 at position 444, 1
+Cmd 899: I sijacuy BOOL
+	Inserted in ScopeTable# 1 at position 233, 3
+Cmd 900: I qunano NUMBER
+	Inserted in ScopeTable# 1 at position 412, 2
+Cmd 901: I lijirafa NUMBER
+	Inserted in ScopeTable# 1 at position 143, 3
+Cmd 902: I yoku VAR
+	Inserted in ScopeTable# 1 at position 147, 2
+Cmd 903: I riko NUMBER
+	Inserted in ScopeTable# 1 at position 184, 3
+Cmd 904: I yopihi UNION INT leb STRING rujav BOOL qayix INT qodaxeh
+	Inserted in ScopeTable# 1 at position 504, 2
+Cmd 905: I tedexevu VAR
+	Inserted in ScopeTable# 1 at position 231, 1
+Cmd 906: I becad UNION BOOL cum STRING wudona BOOL vemitus FLOAT boqilu
+	Inserted in ScopeTable# 1 at position 570, 2
+Cmd 907: I zogixote BOOL
+	Inserted in ScopeTable# 1 at position 129, 1
+Cmd 908: I suvujo NUMBER
+	Inserted in ScopeTable# 1 at position 153, 2
+Cmd 909: I yinij RELOP
+	Inserted in ScopeTable# 1 at position 563, 3
+Cmd 910: I cadejavo RELOP
+	Inserted in ScopeTable# 1 at position 691, 3
+Cmd 911: I biguho STRUCT INT wafu INT rul STRING fupidiqo BOOL xezazacu
+	Inserted in ScopeTable# 1 at position 624, 4
+Cmd 912: I jetinif UNION STRING nutub STRING hof FLOAT dokiki BOOL nin
+	Inserted in ScopeTable# 1 at position 634, 2
+Cmd 913: I zejuh STRUCT STRING porego INT luva INT fuhal
+	Inserted in ScopeTable# 1 at position 132, 3
+Cmd 914: I pahazan VAR
+	Inserted in ScopeTable# 1 at position 67, 3
+Cmd 915: I fiquwi VAR
+	Inserted in ScopeTable# 1 at position 294, 1
+Cmd 916: I dogah BOOL
+	Inserted in ScopeTable# 1 at position 519, 3
+Cmd 917: I pataq VAR
+	Inserted in ScopeTable# 1 at position 4, 1
+Cmd 918: I ciribi FUNCTION STRING STRING BOOL FLOAT
+	Inserted in ScopeTable# 1 at position 17, 3
+Cmd 919: I bamame STRUCT STRING nihav FLOAT pehud
+	Inserted in ScopeTable# 1 at position 311, 2
+Cmd 920: I pox VAR
+	Inserted in ScopeTable# 1 at position 497, 2
+Cmd 921: I viferuba STRUCT INT qaduj STRING baseyoza
+	Inserted in ScopeTable# 1 at position 649, 3
+Cmd 922: I tam STRUCT FLOAT cihiza INT huwihexa BOOL qadizon
+	Inserted in ScopeTable# 1 at position 389, 2
+Cmd 923: I wunocev VAR
+	Inserted in ScopeTable# 1 at position 600, 3
+Cmd 924: I dox BOOL
+	Inserted in ScopeTable# 1 at position 588, 1
+Cmd 925: I zineq VAR
+	Inserted in ScopeTable# 1 at position 587, 3
+Cmd 926: I gemiza NUMBER
+	Inserted in ScopeTable# 1 at position 36, 2
+Cmd 927: I jote UNION FLOAT latuzu FLOAT woho
+	Inserted in ScopeTable# 1 at position 4, 2
+Cmd 928: I xoxugena VAR
+	Inserted in ScopeTable# 1 at position 568, 1
+Cmd 929: I paboq STRUCT STRING cogosey BOOL hirapiy BOOL qisama BOOL gag
+	Inserted in ScopeTable# 1 at position 386, 3
+Cmd 930: I tiwi VAR
+	Inserted in ScopeTable# 1 at position 56, 3
+Cmd 931: I jano STRUCT STRING bijem FLOAT navuvas
+	Inserted in ScopeTable# 1 at position 660, 2
+Cmd 932: I kedan UNION BOOL bahaw STRING mosefa FLOAT kiz
+	Inserted in ScopeTable# 1 at position 509, 2
+Cmd 933: I bezo NUMBER
+	Inserted in ScopeTable# 1 at position 409, 1
+Cmd 934: I jotejap FUNCTION INT STRING FLOAT BOOL
+	Inserted in ScopeTable# 1 at position 339, 2
+Cmd 935: I pijiwe STRUCT BOOL tine STRING juleqef
+	Inserted in ScopeTable# 1 at position 170, 3
+Cmd 936: I sew VAR
+	Inserted in ScopeTable# 1 at position 124, 3
+Cmd 937: I hat STRUCT INT lokez INT jepumu FLOAT geyarek
+	Inserted in ScopeTable# 1 at position 498, 2
+Cmd 938: I vixuc BOOL
+	Inserted in ScopeTable# 1 at position 229, 4
+Cmd 939: I gusomov STRUCT BOOL gaqup STRING lokuqi FLOAT revizap INT kaw
+	Inserted in ScopeTable# 1 at position 56, 4
+Cmd 940: I jatoti NUMBER
+	Inserted in ScopeTable# 1 at position 447, 2
+Cmd 941: I hugi VAR
+	Inserted in ScopeTable# 1 at position 285, 3
+Cmd 942: I noragaja VAR
+	Inserted in ScopeTable# 1 at position 353, 1
+Cmd 943: I banay BOOL
+	Inserted in ScopeTable# 1 at position 28, 2
+Cmd 944: I dedef STRUCT INT kowiroro STRING bacepino STRING sorepoh
+	Inserted in ScopeTable# 1 at position 295, 1
+Cmd 945: I lucuxina VAR
+	Inserted in ScopeTable# 1 at position 596, 4
+Cmd 946: I derawij STRUCT BOOL zabiva STRING nowibuy
+	Inserted in ScopeTable# 1 at position 288, 1
+Cmd 947: I mawan VAR
+	Inserted in ScopeTable# 1 at position 8, 3
+Cmd 948: I kayigo NUMBER
+	Inserted in ScopeTable# 1 at position 117, 3
+Cmd 949: I jup VAR
+	Inserted in ScopeTable# 1 at position 234, 1
+Cmd 950: I poton UNION INT pularego BOOL gopufupi
+	Inserted in ScopeTable# 1 at position 580, 1
+Cmd 951: I gakal NUMBER
+	Inserted in ScopeTable# 1 at position 376, 4
+Cmd 952: I koquy STRUCT FLOAT lozezuna INT nuyoyil
+	Inserted in ScopeTable# 1 at position 467, 3
+Cmd 953: I hemirod VAR
+	Inserted in ScopeTable# 1 at position 482, 2
+Cmd 954: I xuc STRUCT BOOL peb INT wok FLOAT mikogab INT kotid
+	Inserted in ScopeTable# 1 at position 66, 3
+Cmd 955: I dasevu VAR
+	Inserted in ScopeTable# 1 at position 67, 4
+Cmd 956: I hahe RELOP
+	Inserted in ScopeTable# 1 at position 533, 3
+Cmd 957: I gufasi VAR
+	Inserted in ScopeTable# 1 at position 295, 2
+Cmd 958: I wibisu RELOP
+	Inserted in ScopeTable# 1 at position 79, 1
+Cmd 959: I hojidet STRUCT BOOL nuludeco STRING zumamof BOOL hiqi INT fijoyeki
+	Inserted in ScopeTable# 1 at position 629, 2
+Cmd 960: I zupudiv BOOL
+	Inserted in ScopeTable# 1 at position 521, 3
+Cmd 961: I xobe NUMBER
+	Inserted in ScopeTable# 1 at position 550, 1
+Cmd 962: I miguq FUNCTION STRING STRING FLOAT INT
+	Inserted in ScopeTable# 1 at position 177, 2
+Cmd 963: I tawur RELOP
+	Inserted in ScopeTable# 1 at position 394, 2
+Cmd 964: I hamigiki NUMBER
+	Inserted in ScopeTable# 1 at position 79, 2
+Cmd 965: I nuyox RELOP
+	Inserted in ScopeTable# 1 at position 691, 4
+Cmd 966: I xaxof VAR
+	Inserted in ScopeTable# 1 at position 394, 3
+Cmd 967: I yicomof UNION STRING qasadof STRING beyob STRING nuy
+	Inserted in ScopeTable# 1 at position 662, 2
+Cmd 968: I riyevuyo RELOP
+	Inserted in ScopeTable# 1 at position 178, 3
+Cmd 969: I dovoyo NUMBER
+	Inserted in ScopeTable# 1 at position 230, 4
+Cmd 970: I binow UNION FLOAT wej FLOAT xurapobu STRING lugid
+	Inserted in ScopeTable# 1 at position 617, 1
+Cmd 971: I bihitabo VAR
+	Inserted in ScopeTable# 1 at position 114, 1
+Cmd 972: I sozole VAR
+	Inserted in ScopeTable# 1 at position 524, 2
+Cmd 973: I xesuw VAR
+	Inserted in ScopeTable# 1 at position 468, 2
+Cmd 974: I nox RELOP
+	Inserted in ScopeTable# 1 at position 237, 1
+Cmd 975: I tokil NUMBER
+	Inserted in ScopeTable# 1 at position 137, 2
+Cmd 976: I baho NUMBER
+	Inserted in ScopeTable# 1 at position 135, 2
+Cmd 977: I wodobatu NUMBER
+	Inserted in ScopeTable# 1 at position 95, 1
+Cmd 978: I riwaxox RELOP
+	Inserted in ScopeTable# 1 at position 77, 1
+Cmd 979: I kukey STRUCT STRING qiloboz INT zecub
+	Inserted in ScopeTable# 1 at position 235, 1
+Cmd 980: I wab NUMBER
+	Inserted in ScopeTable# 1 at position 244, 3
+Cmd 981: I baweyu BOOL
+	Inserted in ScopeTable# 1 at position 194, 2
+Cmd 982: I lapo STRUCT FLOAT bacebut INT cusox FLOAT wapukeb
+	Inserted in ScopeTable# 1 at position 513, 1
+Cmd 983: I kuriv VAR
+	Inserted in ScopeTable# 1 at position 525, 5
+Cmd 984: I zeco NUMBER
+	Inserted in ScopeTable# 1 at position 436, 1
+Cmd 985: I bilu VAR
+	Inserted in ScopeTable# 1 at position 157, 2
+Cmd 986: I suso RELOP
+	Inserted in ScopeTable# 1 at position 585, 2
+Cmd 987: I voyik NUMBER
+	Inserted in ScopeTable# 1 at position 103, 1
+Cmd 988: I mico VAR
+	Inserted in ScopeTable# 1 at position 120, 1
+Cmd 989: I qolajiz STRUCT FLOAT dewi INT diquluhu FLOAT fahefihe FLOAT dowitucu
+	Inserted in ScopeTable# 1 at position 11, 5
+Cmd 990: I jixab UNION STRING lafiben BOOL yoqup BOOL maqibog INT yuy
+	Inserted in ScopeTable# 1 at position 640, 5
+Cmd 991: I diyoqot VAR
+	Inserted in ScopeTable# 1 at position 411, 2
+Cmd 992: I zapesulu VAR
+	Inserted in ScopeTable# 1 at position 167, 2
+Cmd 993: I gozecodo RELOP
+	Inserted in ScopeTable# 1 at position 279, 3
+Cmd 994: I rofegahe BOOL
+	Inserted in ScopeTable# 1 at position 472, 3
+Cmd 995: I vuge STRUCT STRING fog BOOL tusifi INT visu
+	Inserted in ScopeTable# 1 at position 65, 2
+Cmd 996: I diqupo UNION FLOAT lawaz STRING tequ STRING wurujugo
+	Inserted in ScopeTable# 1 at position 513, 2
