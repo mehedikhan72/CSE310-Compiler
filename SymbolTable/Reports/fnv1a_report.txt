@@ -1,4 +1,4 @@
 hash function: fnv1a
-total collisions: 983
-total number of buckets: 17
-mean ratio: 57.8235
+total collisions: 903
+total number of buckets: 97
+mean ratio: 9.30928
