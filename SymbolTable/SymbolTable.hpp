@@ -10,11 +10,13 @@ class SymbolTable {
 private:
     ScopeTable *current_scope;
     ofstream* os;
+    fstream* rs; // report stream
 
 public:
-    SymbolTable(string hash_function, int num_buckets, ofstream& output_stream) {
+    SymbolTable(string hash_function_name, int num_buckets, ofstream& output_stream, fstream& report_stream) {
         this->os = &output_stream;
-        current_scope = new ScopeTable(hash_function, num_buckets, nullptr, output_stream);
+        this->rs = &report_stream;
+        current_scope = new ScopeTable(hash_function_name, num_buckets, nullptr, output_stream);
     }
 
     ~SymbolTable() {
@@ -33,8 +35,8 @@ public:
         }
     }
 
-    void enterScope(string hash_function, int num_buckets) {
-        current_scope = new ScopeTable(hash_function, num_buckets, current_scope, *os);
+    void enterScope(string hash_function_name, int num_buckets) {
+        current_scope = new ScopeTable(hash_function_name, num_buckets, current_scope, *os);
     }
 
     void exitScope() {
@@ -49,7 +51,7 @@ public:
     }
 
     bool insert(string name, string type) {
-        return current_scope->insert(name, type);
+        return current_scope->insert(name, type, *rs);
     }
 
     bool remove(string name) {

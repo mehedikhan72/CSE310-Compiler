@@ -1,3 +1,5 @@
+typedef unsigned int (*HashFunction)(string, unsigned int);
+
 unsigned int sdbm_hash(string str, unsigned int num_buckets) {
     unsigned int hash = 0;
     unsigned int len = str.length();

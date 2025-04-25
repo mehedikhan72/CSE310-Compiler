@@ -5,6 +5,7 @@
 #include "hash.hpp"
 #include <fstream>
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -12,24 +13,25 @@ class ScopeTable {
 private:
     int id;
     SymbolInfo **hash_table;
-    string hash_function;
+    string hash_function_name;
+    HashFunction hash_func;
     int num_buckets;
     ScopeTable *parent;
-    ofstream* os;
+    ofstream *os;
     static int next_id;
-    int collision_count = 0;
 
 public:
-    ScopeTable(string hash_function, int num_buckets, ScopeTable *parent, ofstream& output_stream) {
+    ScopeTable(string hash_function_name, int num_buckets, ScopeTable *parent, ofstream &output_stream) {
         if (parent == nullptr) {
             this->id = 1;
-            next_id = 2; 
+            next_id = 2;
         } else {
             this->id = next_id++;
         }
 
-        this->hash_function = hash_function;
-        this->num_buckets = num_buckets;
+        this->hash_function_name = hash_function_name;
+        this->hash_func = getHashFunction(hash_function_name);
+            this->num_buckets = num_buckets;
         this->parent = parent;
         this->hash_table = new SymbolInfo *[num_buckets];
         this->os = &output_stream;
@@ -55,16 +57,26 @@ public:
         }
 
         delete[] hash_table;
-        
+
         *os << "\tScopeTable# " << id << " removed\n";
+    }
+
+    HashFunction getHashFunction(string hash_name) {
+        if (hash_name == "djb2") {
+            return djb2_hash;
+        } else if (hash_name == "fnv1a") {
+            return fnv1a_hash;
+        } else {
+            return sdbm_hash;
+        }
     }
 
     int getId() {
         return id;
     }
 
-    string getHashFunction() {
-        return hash_function;
+    string getHashFunctionName() {
+        return hash_function_name;
     }
 
     int getNumBuckets() {
@@ -82,14 +94,18 @@ public:
     void setParent(ScopeTable *parent) {
         this->parent = parent;
     }
-    
-    void setOutputStream(ofstream& output_stream) {
+
+    void setOutputStream(ofstream &output_stream) {
         this->os = &output_stream;
     }
 
-    bool insert(string name, string type) {
+    bool insert(string name, string type, fstream &rs) {
         SymbolInfo *symbol = new SymbolInfo(name, type);
-        int index = sdbm_hash(symbol->getName(), num_buckets);
+        int index = hash_func(symbol->getName(), num_buckets);
+        // read collision from rs
+        int collisions = 0;
+        rs.seekg(0);
+        rs >> collisions;
 
         SymbolInfo *head = hash_table[index];
         if (head == nullptr) {
@@ -116,7 +132,13 @@ public:
             curr->setNext(symbol);
             list_position++;
             *os << "\tInserted in ScopeTable# " << id << " at position " << index + 1 << ", " << list_position << "\n";
-            collision_count++;
+            collisions++;
+
+            rs.seekp(0);
+            rs.clear();
+            rs << collisions << '\n';
+            rs.flush();
+
             return true;
         }
     }
@@ -134,7 +156,7 @@ public:
             curr = curr->getNext();
             list_position++;
         }
-        
+
         // not found.
         return nullptr;
     }
@@ -144,7 +166,7 @@ public:
 
         SymbolInfo *curr = hash_table[index];
         SymbolInfo *prev = nullptr;
-        int list_position = 1; 
+        int list_position = 1;
 
         while (curr != nullptr) {
             if (curr->getName() == name) {
@@ -165,7 +187,7 @@ public:
         }
         // Not found
         *os << "\tNot found in the current ScopeTable\n";
-        return false; 
+        return false;
     }
 
     bool print(int indentLevel = 1) {
