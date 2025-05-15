@@ -1,2 +1,4 @@
 main
 SymbolTable/main
+asan.*
+.vscode

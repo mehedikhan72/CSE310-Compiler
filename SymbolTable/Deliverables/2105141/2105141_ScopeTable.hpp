@@ -1,8 +1,8 @@
-#ifndef SCOPETABLE_HPP
-#define SCOPETABLE_HPP
+#ifndef SCOPETABLE_HEADER
+#define SCOPETABLE_HEADER
 
-#include "SymbolInfo.hpp"
-#include "hash.hpp"
+#include "2105141_SymbolInfo.hpp"
+#include "2105141_hash.hpp"
 #include <fstream>
 #include <iostream>
 #include <string>

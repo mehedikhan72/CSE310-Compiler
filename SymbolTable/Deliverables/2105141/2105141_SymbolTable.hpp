@@ -1,8 +1,8 @@
-#ifndef SYMBOlTABLE_HPP
-#define SYMBOlTABLE_HPP
+#ifndef SYMBOlTABLE_HEADER
+#define SYMBOlTABLE_HEADER
 
 #include "fstream"
-#include "ScopeTable.hpp"
+#include "2105141_ScopeTable.hpp"
 
 using namespace std;
 

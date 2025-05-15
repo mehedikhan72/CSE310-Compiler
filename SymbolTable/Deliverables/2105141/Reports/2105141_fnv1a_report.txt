@@ -1,0 +1,4 @@
+hash function: fnv1a
+total collisions: 460
+total number of buckets: 693
+mean ratio: 0.663781

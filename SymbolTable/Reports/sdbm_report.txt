@@ -1,0 +1,4 @@
+hash function: sdbm
+total collisions: 477
+total number of buckets: 693
+mean ratio: 0.688312

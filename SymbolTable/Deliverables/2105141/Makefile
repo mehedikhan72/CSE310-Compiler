@@ -2,16 +2,16 @@
 CXX = g++
 
 # Source and output
-SRC = main.cpp
+SRC = 2105141_main.cpp
 EXEC = main
 
 # Input and output files
-INPUT = in.txt
-OUTPUT = out.txt
+INPUT = 2105141_in.txt
+OUTPUT = 2105141_out.txt
 
-REPORT_INPUT = Reports/report_in.txt
-REPORT_OUTPUT = Reports/report_out.txt
-FINAL_REPORT = Reports/final_report.txt # Report for any hash function, anytime.
+REPORT_INPUT = Reports/2105141_report_in.txt
+REPORT_OUTPUT = Reports/2105141_report_out.txt
+FINAL_REPORT = Reports/2105141_final_report.txt # Report for any hash function, anytime.
 
 HASH_FUNCTION_NAME ?= sdbm
 
@@ -24,8 +24,12 @@ all:
 build:
 	$(CXX) -o $(EXEC) $(SRC)
 
-# Run 
+# Run with memory leak detection
 run:
+	./$(EXEC) $(INPUT) $(OUTPUT) ${FINAL_REPORT} ${HASH_FUNCTION_NAME}
+
+# Run with detailed leak report to console
+run-verbose:
 	./$(EXEC) $(INPUT) $(OUTPUT) ${FINAL_REPORT} ${HASH_FUNCTION_NAME}
 
 # Clean up
@@ -41,9 +45,9 @@ report:
 	$(CXX) -o $(EXEC) $(SRC)
 	./$(EXEC) $(REPORT_INPUT) $(REPORT_OUTPUT) ${FINAL_REPORT} ${HASH_FUNCTION_NAME}
 
-SDBM_REPORT = Reports/sdbm_report.txt
-DJB2_REPORT = Reports/djb2_report.txt
-FNV1A_REPORT = Reports/fnv1a_report.txt
+SDBM_REPORT = Reports/2105141_sdbm_report.txt
+DJB2_REPORT = Reports/2105141_djb2_report.txt
+FNV1A_REPORT = Reports/2105141_fnv1a_report.txt
 
 run-all-hash:
 	$(CXX) -o $(EXEC) $(SRC)
