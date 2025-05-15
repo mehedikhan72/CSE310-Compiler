@@ -24,12 +24,8 @@ all:
 build:
 	$(CXX) -o $(EXEC) $(SRC)
 
-# Run with memory leak detection
+# Run 
 run:
-	./$(EXEC) $(INPUT) $(OUTPUT) ${FINAL_REPORT} ${HASH_FUNCTION_NAME}
-
-# Run with detailed leak report to console
-run-verbose:
 	./$(EXEC) $(INPUT) $(OUTPUT) ${FINAL_REPORT} ${HASH_FUNCTION_NAME}
 
 # Clean up

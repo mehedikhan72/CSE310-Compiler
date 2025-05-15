@@ -1,4 +1,4 @@
 hash function: sdbm
-total collisions: 903
-total number of buckets: 97
-mean ratio: 9.30928
+total collisions: 477
+total number of buckets: 693
+mean ratio: 0.688312
