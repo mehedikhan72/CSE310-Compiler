@@ -1,0 +1,17 @@
+{DIGIT}+ {
+    fprintf(token_output, "<CONST_INT,%s> ", yytext);
+    fprintf(log_output, "Line no %d: TOKEN <CONST_INT> Lexeme %s found\n", line_count, yytext);
+    symbol_table.insert(yytext, "CONST_INT");
+}
+
+{DIGIT}*\.{DIGIT}+{EXPONENT}?|{DIGIT}*\.{DIGIT}*{EXPONENT}  {
+    fprintf(token_output, "<CONST_FLOAT,%s> ", yytext);
+    fprintf(log_output, "Line no %d: TOKEN <CONST_FLOAT> Lexeme %s found\n", line_count, yytext);
+    symbol_table.insert(yytext, "CONST_FLOAT");
+}
+
+{CHAR_LITERAL} {
+    char ch = processCharLiteral(yytext);
+    fprintf(token_output, "<CONST_CHAR,%d> ", ch);
+    fprint
+}

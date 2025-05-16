@@ -6,10 +6,12 @@ using namespace std;
 class SymbolTable {
 private:
     ScopeTable *current_scope;
+    FILE *log_output;
 
 public:
-    SymbolTable(string hash_function_name, int num_buckets) {
-        current_scope = new ScopeTable(hash_function_name, num_buckets, nullptr);
+    SymbolTable(string hash_function_name, int num_buckets, FILE *log_output) {
+        this->log_output = log_output;
+        current_scope = new ScopeTable(hash_function_name, num_buckets, nullptr, log_output);
     }
 
     ~SymbolTable() {
@@ -21,8 +23,8 @@ public:
         }
     }
 
-    void enterScope(string hash_function_name, int num_buckets) {
-        current_scope = new ScopeTable(hash_function_name, num_buckets, current_scope);
+    void enterScope(string hash_function_name, int num_buckets, FILE *log_output) {
+        current_scope = new ScopeTable(hash_function_name, num_buckets, current_scope, log_output);
     }
 
     void exitScope() {
@@ -62,5 +64,15 @@ public:
         }
 
         return nullptr;
+    }
+
+    void printAllScopes() {
+        ScopeTable* curr = current_scope;
+
+        while (curr != nullptr) {
+            curr->print();
+            curr = curr->getParent();
+        }
+        fprintf(log_output, "\n");
     }
 };

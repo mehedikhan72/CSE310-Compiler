@@ -1,10 +1,60 @@
-Line no 1: TOKEN <INT> Lexeme int found
-Line no 2: TOKEN <INT> Lexeme int found
-Line no 3: TOKEN <FLOAT> Lexeme float found
-Line no 4: TOKEN <DOUBLE> Lexeme double found
-Line no 5: TOKEN <CHAR> Lexeme char found
-Line no 6: TOKEN <CHAR> Lexeme char found
-Line no 7: TOKEN <CHAR> Lexeme char found
-Line no 9: TOKEN <INT> Lexeme int found
-Line no 14: TOKEN <IF> Lexeme if found
-Line no 18: TOKEN <RETURN> Lexeme return found
+Line no 5: Token <ID> Lexeme a found
+
+ScopeTable # 1
+6 --> < a : ID >
+
+Line no 5: Token <ID> Lexeme t found
+
+ScopeTable # 1
+4 --> < t : ID >
+6 --> < a : ID >
+
+Line no 6: Token <ID> Lexeme ab found
+
+ScopeTable # 1
+4 --> < t : ID >
+5 --> < ab : ID >
+6 --> < a : ID >
+
+Line no 6: Token <ID> Lexeme cd found
+
+ScopeTable # 1
+4 --> < t : ID >< cd : ID >
+5 --> < ab : ID >
+6 --> < a : ID >
+
+Line no 6: Token <STRING> Lexeme "abcd
+" found --> <STRING, abcd
+>
+
+Line no 6: Token <ID> Lexeme efgh found
+
+ScopeTable # 1
+0 --> < efgh : ID >
+4 --> < t : ID >< cd : ID >
+5 --> < ab : ID >
+6 --> < a : ID >
+
+Line no 6: Token <STRING> Lexeme "
+" found --> <STRING, 
+>
+
+Line no 6: Token <ID> Lexeme abcd found
+
+ScopeTable # 1
+0 --> < efgh : ID >
+4 --> < t : ID >< cd : ID >
+5 --> < ab : ID >
+6 --> < a : ID >< abcd : ID >
+
+Line no 7: Token <ID> Lexeme efgh found
+
+< efgh : ID > already exists in ScopeTable# 1 at position 0, 0
+Line no 8: Token <ID> Lexeme ijk found
+
+ScopeTable # 1
+0 --> < efgh : ID >
+4 --> < t : ID >< cd : ID >< ijk : ID >
+5 --> < ab : ID >
+6 --> < a : ID >< abcd : ID >
+

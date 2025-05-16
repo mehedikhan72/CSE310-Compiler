@@ -13,10 +13,11 @@ private:
     string hash_function_name;
     int num_buckets;
     ScopeTable *parent;
+    FILE* log_output;
     static int next_id;
 
 public:
-    ScopeTable(string hash_function_name, int num_buckets, ScopeTable *parent) {
+    ScopeTable(string hash_function_name, int num_buckets, ScopeTable *parent, FILE *log_output) {
         if (parent == nullptr) {
             this->id = 1;
             next_id = 2;
@@ -32,6 +33,7 @@ public:
         for (int i = 0; i < num_buckets; i++) {
             hash_table[i] = nullptr;
         }
+        this->log_output = log_output;
     }
 
     ~ScopeTable() {
@@ -89,6 +91,8 @@ public:
             int list_position = 1;
             while (true) {
                 if (curr->getName() == symbol->getName()) {
+                    fprintf(log_output, "< %s : %s > already exists in ScopeTable# %d at position %d, %d\n",
+                            symbol->getName().c_str(), symbol->getType().c_str(), id, index, list_position - 1);
                     delete symbol;
                     return false;
                 }
@@ -150,6 +154,24 @@ public:
         }
         // Not found
         return false;
+    }
+
+    bool print() {
+        fprintf(log_output, "ScopeTable # %d\n", id);
+
+        for (int i = 0; i < num_buckets; i++) {
+            string line = to_string(i) + " --> ";
+
+            SymbolInfo *curr = hash_table[i];
+            while (curr != nullptr) {
+                line += "< " + curr->getName() + " : " + curr->getType() + " >";
+                curr = curr->getNext();
+            }
+            if (line != to_string(i) + " --> ") {
+                fprintf(log_output, "%s\n", line.c_str());
+            }
+        }
+        return true;
     }
 };
 
