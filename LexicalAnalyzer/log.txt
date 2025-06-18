@@ -1,0 +1,46 @@
+Error at line 1: Too many decimal points 127.0.0.1
+
+Error at line 2: Invalid float literal 23E-1.2
+
+Error at line 3: Invalid float literal 5E7.2
+
+Error at line 4: Invalid variable name 123_bcd
+
+Error at line no 5: Too many characters in char literal
+
+Error at line no 7: New line in char literal
+
+Error at line no 8: New line in char literal
+
+Error at line no 8: Too many characters in char literal
+
+Error at line no 9: Too many characters in char literal
+
+Error at line no 10: Too many characters in char literal
+
+Error at line no 12: New line in string literal
+
+Error at line no 13: New line in string literal
+
+Error at line no 15: New line in string literal
+
+Line no 15: Token <ID> Lexeme ijk found
+
+ScopeTable # 1
+4 --> < ijk : ID >
+
+Error at line no 16: New line in string literal
+
+Error at line no 16: Unrecognized character #
+
+Error at line no 16: Unrecognized character $
+
+Error at line no 16: Unrecognized character @
+
+Error at line no 19: EOF in comment literal
+
+ScopeTable # 1
+4 --> < ijk : ID >
+
+Total lines: 19
+Total errors: 18
