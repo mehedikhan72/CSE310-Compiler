@@ -2,3 +2,6 @@ main
 SymbolTable/main
 asan.*
 .vscode
+Parser/venv
+*venv*
+venv/*
