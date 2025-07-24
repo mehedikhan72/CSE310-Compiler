@@ -2,3 +2,7 @@ main
 SymbolTable/main
 asan.*
 .vscode
+*venv*
+venv/*
+.DS_Store
+.antlr
